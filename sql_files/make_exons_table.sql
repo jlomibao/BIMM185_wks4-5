@@ -1,0 +1,8 @@
+CREATE TABLE exons (
+	gene_id INT (10) UNSIGNED NOT NULL,
+	exon SMALLINT(5) UNSIGNED NOT NULL,
+	left_pos INT (10) UNSIGNED NOT NULL,
+	right_pos INT (10) UNSIGNED NOT NULL,
+	exon_length INT(10) UNSIGNED NOT NULL,
+	KEY (gene_id)
+) ENGINE=InnoDB;

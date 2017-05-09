@@ -1,0 +1,3051 @@
+1	leader; Amino acid biosynthesis: Threonine
+2	enzyme; Amino acid biosynthesis: Threonine
+3	enzyme; Amino acid biosynthesis: Threonine
+4	enzyme; Amino acid biosynthesis: Threonine
+7	putative transport; Transport of small molecules: Amino acids, amines
+8	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+9	transport; Biosynthesis of cofactors, carriers: Molybdopterin
+11	putative enzyme; Not classified
+13	factor; Chaperones
+14	factor; Chaperones
+15	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+18	transport; Transport of small molecules: Cations
+19	regulator; Transport of small molecules: Cations
+20	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+21	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+22	structural component; Ribosomal proteins - synthesis, modification
+24	putative regulator; Not classified
+25	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+26	enzyme; Protein, peptide secretion
+27	putative enzyme; Proteins - translation and modification
+30	enzyme; Amino acid biosynthesis: Lysine
+31	enzyme; Pyrimidine ribonucleotide biosynthesis
+32	enzyme; Pyrimidine ribonucleotide biosynthesis
+33	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+34	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+35	enzyme; Degradation of small molecules: Amines
+36	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+37	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+38	putative regulator; Central intermediary metabolism: Pool, multipurpose conversions
+39	putative transport; Central intermediary metabolism: Pool, multipurpose conversions
+40	putative enzyme; Energy metabolism, carbon: Electron transport
+41	putative enzyme; Energy metabolism, carbon: Electron transport
+42	putative carrier; Energy metabolism, carbon: Electron transport
+43	putative carrier; Not classified
+44	putative transport; Not classified
+45	putative enzyme; Not classified
+46	transport; Transport of small molecules: Cations
+47	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+48	enzyme; Salvage of nucleosides and nucleotides
+50	enzyme; rRNA modification; drug/analog sensitivity
+51	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+52	phenotype; Not classified
+53	phenotype; Adaptations, atypical conditions
+54	factor; Chaperones
+56	enzyme; rRNA modification; tRNA modification
+57	putative enzyme; RNA synthesis, modification, DNA transcription
+58	enzyme; DNA - replication, repair, restriction/modification
+59	enzyme; Degradation of small molecules: Carbon compounds
+60	enzyme; Degradation of small molecules: Carbon compounds
+61	enzyme; Degradation of small molecules: Carbon compounds
+62	regulator; Degradation of small molecules: Carbon compounds
+64	transport; Transport of small molecules: Other
+66	transport; Transport of small molecules: Other
+67	transport; Not classified
+69	putative transport; Not classified
+70	enzyme; Amino acid biosynthesis: Leucine
+71	enzyme; Amino acid biosynthesis: Leucine
+72	enzyme; Amino acid biosynthesis: Leucine
+73	enzyme; Amino acid biosynthesis: Leucine
+74	leader; Amino acid biosynthesis: Leucine
+75	putative regulator; Amino acid biosynthesis: Leucine
+76	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+77	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+78	regulator; Energy metabolism, carbon: Glycolysis
+80	enzyme; rRNA modification
+81	phenotype; Cell division
+82	enzyme; Cell division
+83	enzyme; Murein sacculus, peptidoglycan
+84	enzyme; Murein sacculus, peptidoglycan
+85	enzyme; Murein sacculus, peptidoglycan
+86	enzyme; Murein sacculus, peptidoglycan
+87	membrane; Cell division
+88	enzyme; Murein sacculus, peptidoglycan
+89	enzyme; Murein sacculus, peptidoglycan
+90	enzyme; Murein sacculus, peptidoglycan
+91	phenotype; Cell division
+92	phenotype; Cell division
+93	enzyme; Cell division
+94	enzyme; Surface polysaccharides & antigens
+96	transport; Protein, peptide secretion
+97	enzyme; 2'-Deoxyribonucleotide metabolism
+100	orf; Not classified
+101	enzyme; Purine ribonucleotide biosynthesis
+102	putative transport; Not classified
+103	putative transport; Not classified
+104	putative structural component; Surface structures
+105	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+106	regulator; Not classified
+107	regulator; Drug/analog sensitivity
+108	transport; Transport of small molecules: Amino acids, amines
+109	regulator; Energy metabolism, carbon: Pyruvate dehydrogenase
+110	enzyme; Energy metabolism, carbon: Pyruvate dehydrogenase
+111	enzyme; Energy metabolism, carbon: Pyruvate dehydrogenase
+112	enzyme; Energy metabolism, carbon: Pyruvate dehydrogenase
+113	putative membrane; Not classified
+114	enzyme; Energy metabolism, carbon: TCA cycle
+116	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+117	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+120	enzyme; Degradation of small molecules: Carbon compounds
+121	enzyme; Salvage of nucleosides and nucleotides
+122	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+123	putative transport; Not classified
+125	putative transport; Not classified
+127	enzyme; Biosynthesis of cofactors, carriers: Pantothenate
+129	enzyme; Biosynthesis of cofactors, carriers: Pantothenate
+130	enzyme; Biosynthesis of cofactors, carriers: Pantothenate
+131	putative structural component; Surface structures
+132	putative structural component; Surface structures
+133	putative structural component; Surface structures
+134	putative structural component; Surface structures
+135	putative membrane; Surface structures
+136	putative factor; Surface structures
+137	putative structural component; Surface structures
+138	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+139	enzyme; RNA synthesis, modification, DNA transcription
+140	putative enzyme; Aminoacyl tRNA synthetases, tRNA modification
+141	phenotype; DNA - replication, repair, restriction/modification
+142	putative regulator; Degradation of small molecules: Carbon compounds
+143	enzyme; tRNA modification
+144	enzyme; DNA - replication, repair, restriction/modification
+145	enzyme; Murein sacculus, peptidoglycan
+146	membrane; Outer membrane constituents
+147	transport; Transport of small molecules: Cations
+148	transport; Transport of small molecules: Cations
+149	transport; Transport of small molecules: Cations
+150	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+151	transport; Not classified
+156	enzyme; Central intermediary metabolism: Nucleotide hydrolysis
+157	enzyme; Degradation of proteins, peptides, glycopeptides
+158	regulator; Not classified
+159	putative structure; Not classified
+161	enzyme; Amino acid biosynthesis: Lysine
+162	enzyme; Amino acid biosynthesis: Glutamine
+163	enzyme; Proteins - translation and modification
+164	structural component; Ribosomal proteins - synthesis, modification
+165	factor; Proteins - translation and modification
+166	enzyme; Central intermediary metabolism: Nucleotide interconversions
+167	factor; Proteins - translation and modification
+168	putative transport; Not classified
+170	enzyme; Fatty acid and phosphatidic acid biosynthesis
+173	factor; Basic proteins - synthesis, modification
+174	enzyme; Surface polysaccharides & antigens
+175	enzyme; Fatty acid and phosphatidic acid biosynthesis
+176	enzyme; Surface polysaccharides & antigens
+177	enzyme; Macromolecule metabolism: Lipopolysaccharide
+178	enzyme; Degradation of RNA
+179	enzyme; DNA - replication, repair, restriction/modification
+180	enzyme; Fatty acid and phosphatidic acid biosynthesis
+181	enzyme; Energy metabolism, carbon: Pyruvate dehydrogenase
+183	enzyme; tRNA modification
+186	putative enzyme; Not classified
+188	putative transport; Detoxification
+190	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+191	enzyme; tRNA modification
+192	regulator; Surface polysaccharides & antigens
+193	transport; Transport of small molecules: Amino acids, amines
+194	transport; Transport of small molecules: Amino acids, amines
+195	transport; Transport of small molecules: Amino acids, amines
+196	enzyme; Surface polysaccharides and antigens
+197	putative enzyme; Not classified
+198	putative transport; Not classified
+200	putative enzyme; Not classified
+201	regulator; Energy metabolism, carbon: Anaerobic respiration
+202	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+204	enzyme; Degradation of RNA
+205	enzyme; DNA - replication, repair, restriction/modification
+206	putative enzyme; Not classified
+210	putative enzyme; Not classified
+212	putative enzyme; Not classified
+213	enzyme; Surface polysaccharides & antigens
+214	putative enzyme; Not classified
+217	phenotype; Not classified
+218	putative membrane; Not classified
+228	enzyme; Degradation of proteins, peptides, glyco
+229	enzyme; Salvage of nucleosides and nucleotides
+232	membrane; Outer membrane constituents
+233	enzyme; Amino acid biosynthesis: Proline
+234	enzyme; Amino acid biosynthesis: Proline
+236	Phage or Prophage Related
+237	Phage or Prophage Related
+239	Phage or Prophage Related
+240	Phage or Prophage Related
+241	Phage or Prophage Related
+242	Phage or Prophage Related
+243	Phage or Prophage Related
+246	Phage or Prophage Related
+247	Phage or Prophage Related
+248	Phage or Prophage Related
+250	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+252	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+253	Phage or Prophage Related
+254	Phage or Prophage Related
+255	putative transport; Not classified; Phage or Prophage Related
+257	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+258	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+262	Phage or Prophage Related
+263	Phage or Prophage Related
+264	Phage or Prophage Related
+265	Phage or Prophage Related
+266	Phage or Prophage Related
+267	Phage or Prophage Related
+268	enzyme; Amino acid biosynthesis: Arginine; Phage or Prophage Related
+270	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+271	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+273	Phage or Prophage Related
+274	Phage or Prophage Related
+275	Phage or Prophage Related
+276	Phage or Prophage Related
+277	Phage or Prophage Related
+281	enzyme; Not classified
+282	enzyme; Not classified
+283	enzyme; Not classified
+285	putative carrier; Not classified
+286	factor; Surface structures
+287	structural component; Surface structures
+288	membrane; Outer membrane constituents
+289	factor; Surface structures
+290	structural component; Surface structures
+291	putative regulator; Not classified
+298	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+299	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+304	putative enzyme; Not classified
+305	regulator; Not classified
+306	putative carrier; Energy metabolism, carbon: Electron transport
+307	putative carrier; Energy metabolism, carbon: Electron transport
+308	putative carrier; Energy metabolism, carbon: Electron transport
+310	enzyme; Osmotic adaptation
+311	enzyme; Osmotic adaptation
+312	putative regulator; Osmotic adaptation
+313	transport; Transport of small molecules: Other
+315	putative regulator; Not classified
+317	putative regulator; Not classified
+319	putative enzyme; Not classified
+321	putative enzyme; Not classified
+322	putative enzyme; Not classified
+323	enzyme; Degradation of small molecules: Carbon compounds
+326	transport; Not classified
+328	regulator; Not classified
+329	putative enzyme; Not classified
+330	putative enzyme; Not classified
+332	putative enzyme; Not classified
+333	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+334	enzyme; Salvage of nucleosides and nucleotides
+335	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+336	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+337	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+338	transport; Transport of small molecules: Anions
+339	enzyme; Degradation of small molecules: Carbon compounds
+340	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+341	enzyme; Degradation of small molecules: Carbon compounds
+342	regulator; Degradation of small molecules: Carbon compounds
+343	regulator; Not classified
+344	enzyme; Degradation of small molecules: Carbon compounds
+345	enzyme; Degradation of small molecules: Carbon compounds
+346	enzyme; Degradation of small molecules: Carbon compounds
+347	enzyme; Degradation of small molecules: Carbon compounds
+348	enzyme; Degradation of small molecules: Carbon compounds
+349	enzyme; Degradation of small molecules: Carbon compounds
+350	putative transport; Not classified
+351	putative enzyme; Not classified
+352	enzyme; Formaldehyde degradation
+353	enzyme; Energy metabolism, carbon: Fermentation
+357	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+358	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+359	putative enzyme; Not classified
+360	putative enzyme; Not classified
+361	transport; Transport of small molecules: Amino acids, amines
+362	transport; Transport of small molecules: Amino acids, amines
+363	transport; Transport of small molecules: Amino acids, amines
+364	putative enzyme; Not classified
+365	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+367	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+368	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+370	enzyme; Murein recycling
+371	putative membrane; Drug/analog sensitivity
+375	enzyme; Murein sacculus, peptidoglycan
+377	enzyme; Central intermediary metabolism: Phosphorus compounds
+378	phenotype; Central intermediary metabolism: Phosphorus compounds
+380	enzyme; Amino acid biosynthesis: Proline
+382	enzyme; Amino acid biosynthesis: Chorismate
+388	putative regulator; Not classified
+389	transport; Degradation of small molecules: Carbon compounds
+390	enzyme; Degradation of DNA
+391	enzyme; Degradation of DNA
+392	regulator; Global regulatory functions
+393	enzyme; Global regulatory functions
+394	transport; Transport of small molecules: Amino acids, amines
+395	transport; Transport of small molecules: Amino acids, amines
+396	enzyme; Degradation of small molecules: Carbon compounds
+397	enzyme; Not classified
+398	enzyme; Queuosine biosynthesis
+399	enzyme; tRNA modification
+401	transport; Protein, peptide secretion
+402	transport; Protein, peptide secretion
+404	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+407	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+408	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+409	factor; RNA synthesis, modification, DNA transcription
+410	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+411	enzyme; Macromolecule synthesis, modification: Phospholipids
+413	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+414	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+415	enzyme; Degradation of DNA
+416	enzyme; tRNA modification
+418	phenotype; Not classified
+420	putative transport; Not classified
+421	enzyme; Energy metabolism, carbon: Aerobic respiration
+422	enzyme; Energy metabolism, carbon: Aerobic respiration
+423	enzyme; Energy metabolism, carbon: Aerobic respiration
+424	enzyme; Energy metabolism, carbon: Aerobic respiration
+425	enzyme; Energy metabolism, carbon: Aerobic respiration
+426	regulator; Drug/analog sensitivity
+427	putative enzyme; Not classified
+428	putative regulator; Murein sacculus, peptidoglycan
+429	factor; Cell division
+430	enzyme; Degradation of proteins, peptides, glyco
+431	enzyme; Degradation of proteins, peptides, glyco
+432	enzyme; Global regulatory functions
+433	factor; Basic proteins - synthesis, modification
+434	putative factor; Not classified
+436	enzyme; fatty acid degradation
+437	enzyme; Queuosine biosynthesis
+440	putative regulator; Not classified
+443	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+444	putative transport; Central intermediary metabolism: Pool, multipurpose conversions
+445	enzyme; Fatty acid and phosphatidic acid biosynthesis
+446	phenotype; Not classified
+451	putative enzyme; Not classified
+452	regulator; Proteins - translation and modification
+454	transport; Drug/analog sensitivity
+455	transport; Drug/analog sensitivity
+456	regulator; Drug/analog sensitivity
+459	factor; DNA - replication, repair, restriction/modification
+460	orf; Not classified
+461	enzyme; Salvage of nucleosides and nucleotides
+462	enzyme; DNA - replication, repair, restriction/modification
+463	factor; DNA - replication, repair, restriction/modification
+464	putative enzyme; DNA - replication, repair, restriction/modification
+465	factor; Chaperones
+466	enzyme; Purine ribonucleotide biosynthesis
+467	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+468	orf; Not classified
+469	enzyme; Salvage of nucleosides and nucleotides
+470	putative transport; Not classified
+471	putative transport; Not classified
+472	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+476	putative enzyme; Not classified
+477	enzyme; l-glutamine catabolism
+478	putative transport; Not classified
+479	putative transport; Not classified
+481	putative enzyme; Not classified
+482	transport; Transport of small molecules: Cations
+483	transport; Transport of small molecules: Cations
+484	putative enzyme; Not classified
+485	putative enzyme; Not classified
+486	enzyme; Fatty acid and phosphatidic acid biosynthesis
+487	putative transport; Not classified
+488	putative enzyme; Not classified
+495	enzyme; tRNA modification
+496	regulator; Purine nitrogen catabolism
+497	enzyme; Purine nitrogen catabolism
+498	regulator; Purine nitrogen catabolism
+499	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+500	phenotype; Not classified
+501	putative enzyme; Not classified
+502	putative transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+503	enzyme; Purine nitrogen catabolism
+504	putative transport; Not classified
+506	enzyme; Purine nitrogen catabolism
+507	enzyme; Purine nitrogen catabolism
+508	enzyme; Purine nitrogen catabolism
+509	transport; Protein, peptide secretion
+511	putative enzyme; Purine nitrogen catabolism
+512	putative enzyme; Purine nitrogen catabolism
+513	enzyme; Purine ribonucleotide biosynthesis
+514	enzyme; Purine ribonucleotide biosynthesis
+516	enzyme; Proteins - translation and modification
+517	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+520	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+521	putative structural component; Surface structures
+522	putative factor; Surface structures
+523	membrane; Outer membrane constituents
+524	putative structural component; Surface structures
+525	putative structural component; Surface structures
+526	putative regulator; Surface structures
+527	IS, phage, Tn; Phage or Prophage Related
+532	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+533	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+534	transport; Drug/analog sensitivity; Phage or Prophage Related
+535	Phage or Prophage Related
+536	Phage or Prophage Related
+537	Phage or Prophage Related
+538	Phage or Prophage Related
+539	Phage or Prophage Related
+540	Phage or Prophage Related
+541	Phage or Prophage Related
+542	enzyme; Degradation of DNA; Phage or Prophage Related
+543	Phage or Prophage Related
+544	Phage or Prophage Related
+546	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+547	Phage or Prophage Related
+548	Phage or Prophage Related
+549	Phage or Prophage Related
+550	Phage or Prophage Related
+551	Phage or Prophage Related
+552	Phage or Prophage Related
+553	Phage or Prophage Related
+554	Phage or Prophage Related
+555	Phage or Prophage Related
+560	regulator; Central intermediary metabolism: Pool, multipurpose conversions; Phage or Prophage Related
+561	enzyme; Outer membrane constituents; Phage or Prophage Related
+562	structural component; Outer membrane constituents
+564	membrane; Phage-related functions and prophages
+565	membrane; Phage-related functions and prophages
+566	putative regulator; Not classified
+567	putative regulator; Not classified
+568	putative transport; Drug/analog sensitivity
+570	putative transport; Drug/analog sensitivity
+571	putative transport; Not classified
+572	transport; Transport of small molecules: Amino acids, amines
+573	transport; Transport of small molecules: Other
+574	enzyme; Drug/analog sensitivity
+578	component of addiction module (incomplete)
+579	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+580	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+581	membrane; Transport of small molecules: Cations
+582	enzyme; Transport of small molecules: Cations
+583	Enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+584	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+585	transport; Transport of small molecules: Cations
+586	transport; Transport of small molecules: Cations
+587	transport; Transport of small molecules: Cations
+588	transport; Transport of small molecules: Cations
+589	putative transport; Not classified
+590	transport; Transport of small molecules: Cations
+591	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+592	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+593	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+594	enzyme; Biosynthesis of cofactors, carriers: Enterochelin
+596	putative transport; Not classified
+598	putative enzyme; Not classified
+599	putative enzyme; Not classified
+602	putative regulator; Not classified
+603	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+604	enzyme; Detoxification
+605	enzyme; Detoxification
+607	putative enzyme; Not classified
+608	regulator; Central intermediary metabolism: Nucleotide interconversions
+609	enzyme; Degradation of RNA
+610	putative membrane; Not classified
+613	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+614	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+615	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+616	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+617	regulator; Degradation of small molecules: Carbon compounds
+618	regulator; Degradation of small molecules: Carbon compounds
+619	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+620	enzyme; Surface polysaccharides & antigens
+621	phenotype; Not classified
+625	putative enzyme; Biosynthesis of cofactors, carriers: Lipoate
+626	putative regulator; Not classified
+627	enzyme; Biosynthesis of cofactors, carriers: Lipoate
+629	enzyme; Murein sacculus, peptidoglycan
+630	membrane; Macromolecule synthesis, modification: Lipoprotein
+631	phenotype; Cell division
+632	enzyme; Cell division
+633	enzyme; rRNA modification
+634	factor; Ribosomes - maturation and modification
+635	putative regulator; Biosynthesis of cofactors, carriers: Cobalamin
+637	enzyme; DNA - replication, repair, restriction/modification
+638	membrane; Macromolecule synthesis, modification: Lipoprotein
+639	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+640	phenotype; Not classified
+643	putative factor; Chaperones
+645	putative enzyme; Not classified
+646	factor; Chaperones
+647	putative enzyme; Not classified
+648	orf; Not classified
+649	transport; Transport of small molecules: Amino acids, amines
+650	transport; Transport of small molecules: Amino acids, amines
+651	transport; Transport of small molecules: Amino acids, amines
+652	transport; Amino acids
+653	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+654	enzyme; Transport of small molecules: Cations
+655	putative transport; Not classified
+658	enzyme; tRNA modification
+660	enzyme; Amino acid biosynthesis: Asparagine
+661	enzyme; Central intermediary metabolism: Amino sugars
+662	regulator; Central intermediary metabolism: Amino sugars
+663	enzyme; Central intermediary metabolism: Amino sugars
+664	enzyme; Central intermediary metabolism: Amino sugars
+665	enzyme; Transport of small molecules: Amino acids, amines
+666	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+669	regulator; Global regulatory functions
+671	enzyme; Energy metabolism, carbon: Electron transport
+674	regulator; DNA - replication, repair, restriction/modification
+675	enzyme; Degradation of small molecules: Carbon compounds
+676	putative enzyme; Not classified
+679	transport; Transport of small molecules: Amino acids, amines
+680	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+682	regulator; Global regulatory functions
+683	enzyme; Global regulatory functions
+684	enzyme; Transport of small molecules: Cations
+685	enzyme; Transport of small molecules: Cations
+686	enzyme; Transport of small molecules: Cations
+695	putative enzyme; Not classified
+697	enzyme; DNA - replication, repair, restriction/modification
+698	transport; Not classified
+700	putative enzyme; Not classified
+701	putative enzyme; Not classified
+702	phenotype; Not classified
+703	enzyme; DNA - replication, repair, restriction/modification
+704	putative transport; Not classified
+706	putative factor; Surface structures
+707	putative membrane; Not classified
+708	putative structural component; Surface structures
+709	enzyme; Energy metabolism, carbon: TCA cycle
+710	enzyme; Energy metabolism, carbon: TCA cycle
+711	enzyme; Energy metabolism, carbon: TCA cycle
+712	enzyme; Energy metabolism, carbon: TCA cycle
+713	enzyme; Energy metabolism, carbon: TCA cycle
+714	enzyme; Energy metabolism, carbon: TCA cycle
+715	enzyme; Energy metabolism, carbon: TCA cycle
+716	enzyme; Energy metabolism, carbon: TCA cycle
+717	enzyme; Energy metabolism, carbon: TCA cycle
+718	regulator; Energy metabolism, carbon: TCA cycle
+719	enzyme; Proteins - translation and modification
+720	enzyme; Not classified
+721	enzyme; Energy metabolism, carbon: Electron transport
+722	enzyme; Energy metabolism, carbon: Electron transport
+725	enzyme; Fatty acid and phosphatidic acid biosynthesis
+726	membrane; Colicin-related functions
+727	putative transport; Not classified
+728	membrane; Colicin-related functions
+729	factor; Colicin-related functions
+730	membrane; Macromolecule synthesis, modification: Lipoprotein
+732	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+733	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+734	putative transport; Not classified
+735	putative regulator; Not classified
+736	enzyme; Amino acid biosynthesis: Phenylalanine
+737	enzyme; Energy metabolism, carbon: Glycolysis
+738	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+739	enzyme; Degradation of small molecules: Carbon compounds
+740	enzyme; Degradation of small molecules: Carbon compounds
+741	enzyme; Degradation of small molecules: Carbon compounds
+742	transport; Transport of small molecules: Anions
+743	regulator; Transport of small molecules: Anions
+745	transport; Transport of small molecules: Anions
+746	transport; Transport of small molecules: Anions
+747	transport; Transport of small molecules: Anions
+748	putative enzyme; Not classified
+749	orf; Not classified
+750	putative regulator; Not classified
+751	putative enzyme; Not classified
+752	orf; Not classified
+753	putative enzyme; Not classified
+754	putative enzyme
+756	enzyme; Biosynthesis of cofactors, carriers: Biotin
+757	enzyme; Biosynthesis of cofactors, carriers: Biotin
+758	enzyme; Biosynthesis of cofactors, carriers: Biotin
+759	enzyme; Biosynthesis of cofactors, carriers: Biotin
+760	enzyme; Biosynthesis of cofactors, carriers: Biotin
+761	enzyme; Degradation of DNA
+762	putative structure; Not classified
+763	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+764	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+765	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+766	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+767	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+771	Enzyme; Macromolecule synthesis: Phospholipids
+776	putative transport; Not classified
+777	putative membrane; Not classified
+778	putative regulator; Not classified
+779	putative enzyme; Not classified
+781	putative enzyme; DNA - replication, repair, restriction/modification
+782	putative enzyme; Not classified
+783	putative enzyme; Not classified
+786	putative enzyme; Not classified
+787	membrane; Outer membrane constituents
+789	enzyme; rRNA modification
+790	putative transport; Not classified
+791	transport; Transport of small molecules: Amino acids, amines
+792	transport; Transport of small molecules: Amino acids, amines
+793	transport; Transport of small molecules: Amino acids, amines
+794	regulator; Global regulatory functions
+795	putative membrane; Not classified
+796	membrane; Outer membrane constituents
+797	putative enzyme; Not classified
+799	regulator; Not classified
+801	enzyme; Murein sacculus, peptidoglycan
+802	putative factor; Not classified
+805	putative enzyme; Not classified
+806	putative enzyme; Not classified
+808	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+809	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+810	orf; Not classified
+811	putative transport; Not classified
+812	putative transport; Not classified
+813	putative transport; Not classified
+814	putative transport; Not classified
+818	putative factor; Not classified
+819	putative enzyme; Not classified
+820	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+821	enzyme; Murein sacculus, peptidoglycan
+822	regulator; Salvage of nucleosides and nucleotides
+824	transport; Transport of small molecules: Other
+826	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+827	putative regulator; Not classified
+828	putative regulator; Not classified
+829	putative transport; Not classified
+831	carrier; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+833	phenotype; Not classified
+834	structural component; Ribosomes - maturation and modification
+835	putative regulator; Not classified
+836	transport; Transport of small molecules: Amino acids, amines
+837	transport; Transport of small molecules: Amino acids, amines
+838	transport; Transport of small molecules: Amino acids, amines
+839	transport; Transport of small molecules: Amino acids, amines
+841	enzyme; rRNA modification
+842	transport; Transport of small molecules: Amino acids, amines
+843	transport; Transport of small molecules: Amino acids, amines
+844	transport; Transport of small molecules: Amino acids, amines
+845	transport; Transport of small molecules: Amino acids, amines
+846	transport; Transport of small molecules: Amino acids, amines
+847	putative enzyme; Not classified
+849	putative regulator; Not classified
+850	putative enzyme; Not classified
+851	putative enzyme; Not classified
+852	putative enzyme; Not classified
+853	enzyme; Degradation of small molecules: Carbon compounds
+854	putative enzyme; Not classified
+855	orf; Not classified
+856	putative structure; Not classified
+857	transport; Transport of small molecules: Other
+859	putative enzyme; Not classified
+860	putative membrane; Not classified
+861	putative transport; Not classified
+862	phenotype; Not classified
+864	enzyme; Degradation of proteins, peptides, glyco
+865	factor; Proteins - translation and modification
+866	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+867	transport; Transport of small molecules: Other
+868	transport; Not classified
+869	enzyme; 2'-Deoxyribonucleotide metabolism
+870	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+871	phenotype; Cell division
+872	transport; Protein, peptide secretion
+873	putative enzyme; Not classified
+874	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+875	enzyme; Energy metabolism, carbon: Anaerobic respiration
+876	enzyme; Energy metabolism, carbon: Anaerobic respiration
+877	enzyme; Energy metabolism, carbon: Anaerobic respiration
+879	putative transport; Not classified
+880	putative transport; Not classified
+881	putative regulator; Not classified
+883	enzyme; Energy metabolism, carbon: Anaerobic respiration
+884	enzyme; Energy metabolism, carbon: Anaerobic respiration
+885	putative transport; Degradation of small molecules: Carbon compounds
+888	enzyme; Amino acid biosynthesis: Serine
+889	enzyme; Amino acid biosynthesis: Chorismate
+890	putative factor; Not classified
+891	enzyme; Pyrimidine ribonucleotide biosynthesis
+892	structural component; Ribosomal proteins - synthesis, modification
+893	factor; DNA - replication, repair, restriction/modification
+895	transport; Transport of small molecules: Other
+896	putative enzyme; Not classified
+899	enzyme; Surface polysaccharides & antigens
+901	factor; Murein sacculus, peptidoglycan
+902	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+903	factor; Cell killing
+905	structural component; Cell division
+906	enzyme; Murein sacculus, peptidoglycan
+909	enzyme; Amino acid biosynthesis: Aspartate
+910	membrane; Outer membrane constituents
+911	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+912	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+913	enzyme; Degradation of proteins, peptides, glyco
+914	transport; Not classified
+915	putative transport; Not classified
+919	structural component; Surface structures
+920	putative factor; Surface structures
+921	putative membrane; Outer membrane constituents
+922	putative structural component; Surface structures
+923	putative structural component; Surface structures
+924	putative structural component; Surface structures
+925	putative factor; Surface structures
+926	enzyme; Pyrimidine ribonucleotide biosynthesis
+929	enzyme; rRNA modification
+930	factor; DNA - replication, repair, restriction/modification
+931	phenotype; Not classified
+932	phenotype; Not classified
+934	factor; Ribosomes - maturation and modification
+935	enzyme; Fatty acid and phosphatidic acid biosynthesis
+936	putative enzyme; Not classified
+937	factor; DNA - replication, repair, restriction/modification
+938	membrane; Outer membrane constituents
+939	phenotype; Cell division
+943	enzyme; DNA - replication, repair, restriction/modification
+944	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+948	enzyme; rRNA modification
+950	orf; Not classified
+951	putative transport; Not classified
+952	enzyme; Energy metabolism, carbon: Aerobic respiration
+953	enzyme; Energy metabolism, carbon: Aerobic respiration
+954	putative enzyme; Energy metabolism, carbon: Aerobic respiration
+955	factor; Energy metabolism, carbon: Aerobic respiration
+956	factor; Energy metabolism, carbon: Aerobic respiration
+957	phenotype; Energy metabolism, carbon: Aerobic respiration
+958	putative enzyme; Energy metabolism, carbon: Electron transport
+959	putative enzyme; Energy metabolism, carbon: Electron transport
+961	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+963	enzyme; Not classified
+964	transport; Not classified
+967	putative regulator; Not classified
+969	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+970	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+971	phenotype; Not classified
+972	phenotype; Not classified
+973	phenotype; Not classified
+976	enzyme; Energy metabolism, carbon: Anaerobic respiration
+977	regulator; Energy metabolism, carbon: Anaerobic respiration
+978	regulator; Energy metabolism, carbon: Anaerobic respiration
+979	enzyme; Energy metabolism, carbon: Anaerobic respiration
+980	enzyme; Energy metabolism, carbon: Anaerobic respiration
+981	enzyme; Energy metabolism, carbon: Anaerobic respiration
+983	factor; Chaperones
+985	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+987	enzyme; Not classified
+989	transport; Pyrimidine nitrogen catabolism
+990	enzyme; Pyrimidine nitrogen catabolism
+991	enzyme; Pyrimidine nitrogen catabolism
+992	enzyme; Pyrimidine nitrogen catabolism
+993	enzyme; Pyrimidine nitrogen catabolism
+994	enzyme; Pyrimidine nitrogen catabolism
+995	enzyme; Pyrimidine nitrogen catabolism
+996	regulator; Pyrimidine nitrogen catabolism
+997	enzyme; Degradation of small molecules: Amino acids
+998	transport; Transport of small molecules: Cations
+1002	regulator; Central intermediary metabolism: Phosphorus compounds
+1003	enzyme; Surface polysaccharides and antigens
+1004	enzyme; Surface polysaccharides and antigens
+1005	transport; Surface polysaccharides & antigens
+1006	transport; Surface polysaccharides & antigens
+1008	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1009	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1012	enzyme; Not classified
+1013	enzyme; Central intermediary metabolism: Phosphorus compounds
+1014	putative enzyme; Not classified
+1016	structural component; Surface structures
+1017	structural component; Surface structures
+1018	structural component; Surface structures
+1019	putative regulator; Not classified
+1020	structural component; Surface structures
+1021	regulator; Surface structures
+1022	putative structure; Not classified
+1025	Enzyme; Macromolecule synthesis: Phospholipids
+1027	enzyme; Osmoregulated periplasmic glucan (OPG) biosynthesis
+1028	enzyme; Osmoregulated periplasmic glucan (OPG) biosynthesis biosynthesis
+1030	phenotype; Protein, peptide secretion
+1031	putative transport; Not classified
+1032	factor; Adaptations, atypical conditions
+1035	putative enzyme; Not classified
+1037	putative enzyme; Not classified
+1039	phenotype; Not classified
+1040	enzyme; Pyrimidine ribonucleotide biosynthesis
+1042	carrier; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+1044	enzyme; Ribosomes - maturation and modification
+1046	putative factor; Not classified
+1047	putative factor; Not classified
+1048	phenotype; Surface structures
+1049	factor; Surface structures
+1050	putative structure; Surface structures
+1051	structural component; Surface structures
+1052	structural component; Surface structures
+1053	putative structure; Surface structures
+1054	structural component; Surface structures
+1055	structural component; Surface structures
+1056	structural component; Surface structures
+1057	structural component; Surface structures
+1058	putative structural component; Surface structures
+1059	structure; Surface structures; enzyme; Murein sacculus, peptidoglycan
+1060	structural component; Surface structures
+1061	structural component; Surface structures
+1062	enzyme; Degradation of RNA
+1064	enzyme; rRNA modification
+1067	structural component; Ribosomal proteins - synthesis, modification
+1068	phenotype; Macromolecule synthesis, modification: Phospholipids
+1069	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1070	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1071	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1072	carrier; Fatty acid and phosphatidic acid biosynthesis
+1073	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1074	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+1075	putative enzyme; Not classified
+1076	enzyme; 2'-Deoxyribonucleotide metabolism
+1077	enzyme; DNA - replication, repair, restriction/modification
+1079	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1080	transport; Transport of small molecules: Cations
+1084	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+1087	enzyme; Energy metabolism, carbon: Aerobic respiration
+1089	regulator; Not classified
+1091	enzyme; Murein sacculus, peptidoglycan
+1092	factor; DNA - replication, repair, restriction/modification
+1095	putative transport; Not classified
+1096	putative enzyme; Not classified
+1099	putative factor; Not classified
+1101	transport; Transport of small molecules: Amino acids, amines
+1102	transport; Transport of small molecules: Amino acids, amines
+1103	transport; Transport of small molecules: Amino acids, amines
+1104	transport; Transport of small molecules: Amino acids, amines
+1105	enzyme; Degradation of proteins, peptides, glyco
+1106	enzyme; Proteins - translation and modification
+1107	enzyme; Global regulatory functions
+1108	regulator; Global regulatory functions
+1109	enzyme; Purine ribonucleotide biosynthesis
+1111	enzyme; tRNA modification
+1112	putative enzyme; Not classified
+1113	enzyme; rRNA modification
+1114	enzyme; Energy metabolism, carbon: TCA cycle; Phage or Prophage Related
+1115	Phage or Prophage Related
+1116	Phage or Prophage Related
+1117	membrane; Phage or Prophage Related
+1118	Phage or Prophage Related
+1119	Phage or Prophage Related
+1120	Phage or Prophage Related
+1121	Phage or Prophage Related
+1122	Phage or Prophage Related
+1123	Phage or Prophage Related
+1124	Phage or Prophage Related
+1125	Phage or Prophage Related
+1128	Phage or Prophage Related
+1131	Phage or Prophage Related
+1132	Phage or Prophage Related
+1133	Phage or Prophage Related
+1134	Phage or Prophage Related
+1136	membrane; Phage or Prophage Related
+1137	putative enzyme; Phage or Prophage Related
+1141	putative regulator; Not classified
+1147	putative enzyme; Not classified
+1155	factor; Cell division
+1156	enzyme; Cell division
+1157	factor; Cell division
+1161	putative enzyme; Not classified
+1163	phenotype; Not classified
+1164	putative enzyme; DNA - replication, repair, restriction/modification
+1165	putative enzyme; DNA - replication, repair, restriction/modification
+1166	enzyme; Surface structures
+1167	transport; Transport of small molecules: Cations
+1168	regulator; Degradation of small molecules: Fatty acids
+1170	enzyme; Degradation of small molecules: Amino acids
+1171	enzyme; Degradation of small molecules: Amino acids
+1173	enzyme; Murein sacculus, peptidoglycan
+1174	enzyme; Murein sacculus, peptidoglycan
+1178	enzyme; Osmotic adaptation
+1180	putative enzyme; Not classified
+1181	putative enzyme; Not classified
+1182	putative regulator; Not classified
+1183	putative factor; Not classified
+1184	enzyme; Not classified
+1185	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1188	enzyme; Purine ribonucleotide biosynthesis
+1190	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+1191	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+1192	factor; Proteins - translation and modification
+1193	putative enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+1195	putative enzyme; Not classified
+1196	enzyme; Surface polysaccharides & antigens
+1200	transport; Transport of small molecules: Cations
+1201	regulator; Transport of small molecules: Cations
+1202	transport; Transport of small molecules: Cations
+1204	putative factor; Not classified
+1205	regulator; Energy metabolism, carbon: Anaerobic respiration
+1206	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1207	transport; Transport of small molecules: Anions
+1208	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1209	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1210	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1211	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1212	factor; Basic proteins - synthesis, modification
+1213	enzyme; Purine ribonucleotide biosynthesis
+1216	regulator; Basic proteins - synthesis, modification
+1217	enzyme; Degradation of small molecules: Carbon compounds
+1218	regulator; Basic proteins - synthesis, modification
+1219	enzyme; Salvage of nucleosides and nucleotides
+1221	enzyme; Energy metabolism, carbon: Fermentation
+1222	putative transport; Not classified
+1223	transport; Not classified
+1224	transport; Not classified
+1225	transport; Not classified
+1226	transport; Not classified
+1227	putative transport; Not classified
+1229	enzyme; Macromolecule synthesis: Phospholipids
+1233	membrane; Transport of small molecules: Cations
+1237	putative membrane; Not classified
+1239	putative structure; Not classified
+1241	enzyme; Amino acid biosynthesis: Tryptophan
+1242	enzyme; Amino acid biosynthesis: Tryptophan
+1243	enzyme; Amino acid biosynthesis: Tryptophan
+1244	enzyme; Amino acid biosynthesis: Tryptophan
+1245	enzyme; Amino acid biosynthesis: Tryptophan
+1246	leader; Amino acid biosynthesis: Tryptophan
+1247	putative enzyme; Not classified
+1250	enzyme; rRNA modification
+1251	enzyme; Biosynthesis of cofactors, carriers: Cobalamin
+1252	putative enzyme; Not classified
+1253	putative enzyme; Not classified
+1255	enzyme; DNA - replication, repair, restriction/modification
+1256	transport; Amino acid biosynthesis: Cysteine
+1259	enzyme; Energy metabolism, carbon: TCA cycle
+1260	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+1261	enzyme; Macromolecule synthesis, modification: Phospholipids
+1263	putative factor; Not classified
+1264	enzyme; Pyrimidine ribonucleotide biosynthesis
+1266	putative membrane; Osmotic adaptation
+1267	putative regulator; Not classified
+1271	enzyme; Degradation of RNA
+1272	putative enzyme; Not classified
+1273	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1275	putative transport; Not classified
+1276	putative transport; Not classified
+1277	putative transport; Not classified
+1278	putative transport; Not classified
+1279	putative transport; Not classified
+1281	transport; Degradation of small molecules: Carbon compounds
+1282	enzyme; Degradation of small molecules: Carbon compounds
+1283	enzyme; Degradation of small molecules: Carbon compounds
+1284	regulator; Degradation of small molecules: Carbon compounds
+1285	enzyme; Degradation of small molecules: Carbon compounds
+1286	enzyme; Degradation of small molecules: Carbon compounds
+1287	enzyme; Degradation of small molecules: Carbon compounds
+1288	regulator; Phage-related functions and prophages
+1289	factor; Phage-related functions and prophages
+1290	IS, phage, Tn; Phage-related functions and prophages
+1291	factor; Phage-related functions and prophages
+1292	IS, phage, Tn; Phage-related functions and prophages
+1293	IS, phage, Tn; Phage-related functions and prophages
+1294	putative enzyme; Not classified
+1295	putative transport; Not classified
+1296	putative transport; Not classified
+1297	putative transport; Not classified
+1298	putative enzyme; Not classified
+1299	putative factor; Not classified
+1300	putative enzyme; Not classified
+1302	enzyme; Not classified
+1304	membrane; Outer membrane constituents
+1305	putative regulator; Not classified
+1306	putative enzyme; Not classified
+1308	regulator; Transport of small molecules: Amino acids, amines
+1309	enzyme; Detoxification
+1310	putative enzyme; Not classified
+1311	enzyme; Not classified
+1315	regulator; Not classified
+1316	transport; Not classified
+1318	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1321	regulator; Global regulatory functions
+1322	enzyme; DNA - replication, repair, restriction/modification
+1323	putative transport; Not classified
+1324	enzyme; Degradation of small molecules: Carbon compounds
+1325	enzyme; Degradation of small molecules: Carbon compounds
+1326	putative regulator; Not classified
+1330	enzyme; RNA synthesis, modification, DNA transcription
+1331	putative enzyme; Not classified
+1332	Phage or Prophage Related
+1333	Phage or Prophage Related
+1334	Phage or Prophage Related
+1335	enzyme; Phage or Prophage Related
+1336	enzyme; DNA - replication, repair, restriction/modification: Phage or Prophage Related
+1337	enzyme; Degradation of DNA; Phage or Prophage Related
+1338	membrane; Phage or Prophage Related
+1339	Phage or Prophage Related
+1340	Phage or Prophage Related
+1341	phenotype; Phage or Prophage Related
+1342	Phage or Prophage Related
+1343	Phage or Prophage Related
+1344	Phage or Prophage Related
+1345	Phage or Prophage Related
+1346	Phage or Prophage Related
+1347	Phage or Prophage Related
+1348	Phage or Prophage Related
+1351	Phage or Prophage Related
+1352	transport; Transport of small molecules: Cations; Phage or Prophage Related
+1353	Phage or Prophage Related
+1357	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1358	Phage or Prophage Related
+1359	Phage or Prophage Related
+1360	Phage or Prophage Related
+1361	Phage or Prophage Related
+1363	putative structure; Not classified
+1364	putative membrane; Not classified
+1365	putative enzyme; Not classified
+1367	factor; Adaptations, atypical conditions
+1368	enzyme; Energy metabolism, carbon: Fermentation
+1372	regulator; Not classified
+1373	enzyme; Degradation of small molecules: Carbon compounds
+1374	enzyme; Degradation of small molecules: Amines
+1375	enzyme; Phenylacetic acid degradation
+1376	enzyme; Phenylacetic acid degradation
+1377	enzyme; Phenylacetic acid degradation
+1378	enzyme; Phenylacetic acid degradation
+1379	enzyme; Phenylacetic acid degradation
+1380	enzyme; Phenylacetic acid degradation
+1381	enzyme; Phenylacetic acid degradation
+1382	enzyme; Phenylacetic acid degradation
+1383	enzyme; Phenylacetic acid degradation
+1384	enzyme; Phenylacetic acid degradation
+1385	enzyme; Phenylacetic acid degradation
+1386	enzyme; Phenylacetic acid degradation
+1387	regualtor: Phenylacetic acid degradation
+1388	enzyme; Phenylacetic acid degradation
+1391	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1392	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1393	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1394	putative enzyme; Not classified
+1396	putative enzyme; Not classified
+1397	putative enzyme; Central intermediary metabolism: Nucleotide interconversions
+1399	putative enzyme; Not classified
+1400	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1401	enzyme; DNA - replication, repair, restriction/modification
+1403	enzyme; Energy metabolism, carbon: Fermentation
+1405	enzyme; Energy metabolism, carbon: Electron transport
+1409	regulator; Chemotaxis and mobility
+1410	putative regulator; Not classified
+1411	putative enzyme; Not classified
+1412	putative structure; Not classified
+1414	enzyme; Ribosomes - maturation and modification
+1415	putative enzyme; Not classified
+1416	transport; Drug/analog sensitivity
+1417	enzyme; Drug/analog sensitivity
+1420	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1421	putative transport; Not classified
+1422	putative regulator; Not classified
+1423	putative enzyme; Not classified
+1427	putative regulator; Not classified
+1428	enzyme; Not classified
+1429	putative transport; Not classified
+1430	putative transport; Not classified
+1431	putative transport; Not classified
+1432	putative enzyme; Not classified
+1437	enzyme; Proteins - translation and modification
+1438	enzyme; Not classified
+1439	putative regulator; Not classified
+1440	putative transport; Not classified
+1441	putative factor; Not classified
+1442	transport; Transport of small molecules: Amino acids, amines
+1443	putative enzyme; Not classified
+1448	putative enzyme; Not classified
+1452	putative enzyme; Not classified
+1453	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1454	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1455	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1456	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1457	transport; Transport of small molecules: Anions
+1461	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1462	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1463	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1465	enzyme; Energy metabolism, carbon: Anaerobic respiration
+1466	enzyme; Central intermediary metabolism: Gluconeogenesis
+1467	structural component; Ribosomal proteins - synthesis, modification
+1469	phenotype; Osmotic adaptation
+1470	putative transport; Not classified
+1471	putative transport; Not classified
+1472	putative transport; Not classified
+1473	putative transport; Not classified
+1474	putative factor; Not classified
+1476	putative enzyme; Not classified
+1479	putative transport; Not classified
+1480	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1481	putative enzyme; Not classified
+1483	putative transport; Not classified
+1484	putative enzyme; Not classified
+1485	putative enzyme; Not classified
+1486	regulator; Not classified
+1487	regulator; Global regulatory functions
+1488	putative enzyme; Not classified
+1489	putative structural component; Surface structures
+1490	putative structural component; Surface structures
+1491	putative structural component; Surface structures
+1494	enzyme; Protein modification
+1495	regulator; Murein sacculus, peptidoglycan
+1497	enzyme; Not classified
+1498	regulator; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1499	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1500	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1501	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1502	putative regulator; Not classified
+1503	enzyme; Degradation of small molecules: Carbon compounds
+1504	enzyme; Degradation of small molecules: Carbon compounds
+1505	enzyme; Detoxification
+1507	enzyme; Degradation of small molecules: Carbon compounds
+1510	enzyme; l-glutamine catabolism
+1511	putative enzyme; Not classified
+1512	putative regulator; Not classified
+1514	transport; Transport of small molecules: sugars
+1516	regulator; Drug/analog sensitivity
+1517	regulator; Drug/analog sensitivity
+1518	putative transport; Drug/analog sensitivity
+1520	putative transport; Not classified
+1525	enzyme; Degradation of proteins, peptides, glyco
+1526	putative enzyme; Not classified
+1527	regulator; Degradation of small molecules
+1529	putative enzyme; Not classified
+1531	Phage or Prophage Related
+1532	Phage or Prophage Related
+1533	Phage or Prophage Related
+1534	Phage or Prophage Related
+1536	Phage or Prophage Related
+1537	Phage or Prophage Related
+1538	Phage or Prophage Related
+1539	Phage or Prophage Related
+1540	Phage or Prophage Related
+1541	Phage or Prophage Related
+1543	Phage or Prophage Related
+1544	Phage or Prophage Related
+1545	Phage or Prophage Related
+1546	phenotype; Adaptations, atypical conditions; Phage or Prophage Related
+1547	Phage or Prophage Related
+1548	Phage or Prophage Related
+1549	Phage or Prophage Related
+1550	Phage or Prophage Related
+1551	factor; Cell killing
+1552	Phage or Prophage Related
+1553	regulator; Global regulatory functions; Phage or Prophage Related
+1554	Phage or Prophage Related
+1555	Phage or Prophage Related
+1558	regulator; Cell division; Phage or Prophage Related
+1559	regulator; Cell division; Phage or Prophage Related
+1560	Phage or Prophage Related
+1561	Phage or Prophage Related
+1562	Phage or Prophage Related
+1563	regulator; Cell division; Phage or Prophage Related
+1564	Phage or Prophage Related
+1568	enzyme; Global regulatory functions
+1569	phenotype; Global regulatory functions
+1572	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+1575	putative enzyme; Not classified
+1576	putative enzyme; Not classified
+1577	putative enzyme; Not classified
+1578	putative enzyme; Degradation of small molecules: Carbon compounds
+1579	putative enzyme; Not classified
+1580	transport; Not classified
+1582	regulator; Not classified
+1583	putative regulator; Not classified
+1584	putative transport; Not classified
+1585	phenotype; Not classified
+1588	putative factor; Not classified
+1589	putative factor; Not classified
+1590	putative transport; Not classified
+1591	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1592	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1594	putative transport; Not classified
+1595	enzyme; Not classified
+1597	regulator; Not classified
+1598	regulator; Global regulatory functions
+1599	factor; DNA - replication, repair, restriction/modification
+1600	enzyme; Energy metabolism, carbon: TCA cycle
+1601	enzyme; Energy metabolism, carbon: TCA cycle
+1602	enzyme; Degradation of small molecules: Carbon compounds
+1604	membrane; Inner membrane
+1605	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1606	enzyme; Degradation of small molecules: Carbon compounds
+1607	regulator; Degradation of small molecules: Carbon compounds
+1608	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1609	regulator; Degradation of small molecules: Carbon compounds
+1610	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1611	enzyme; Degradation of small molecules: Carbon compounds
+1612	enzyme; Salvage of nucleosides and nucleotides
+1619	putative membrane; Not classified
+1623	enzyme; Degradation of DNA
+1624	transport; Not classified
+1625	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+1626	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+1627	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1628	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+1630	enzyme; Murein recycling
+1631	putative membrane; Not classified
+1632	regulator; Adaptations, atypical conditions
+1634	putative membrane; Not classified
+1636	enzyme; Detoxification
+1640	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1641	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1642	enzyme; Degradation of RNA
+1643	enzyme; DNA - replication, repair, restriction/modification
+1645	enzyme; Murein sacculus, peptidoglycan
+1646	enzyme; Detoxification
+1647	putative transport; Not classified
+1649	regulator; Purine ribonucleotide biosynthesis
+1650	putative regulator; Not classified
+1651	putative transport; Not classified
+1652	enzyme; Fatty acid and phosphatidic acid biosynthesis
+1653	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+1654	putative transport; Not classified
+1655	putative enzyme; Not classified
+1657	putative enzyme; Not classified
+1659	putative enzyme; Not classified
+1660	putative enzyme; Not classified
+1663	putative enzyme; Not classified
+1665	enzyme; Energy metabolism, carbon: Glycolysis
+1666	membrane; Murein sacculus, peptidoglycan
+1667	enzyme; Murein sacculus, peptidoglycan
+1675	Enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+1676	putative enzyme; Not classified
+1679	putative transport; Not classified
+1680	putative transport; Not classified
+1681	putative enzyme; Not classified
+1682	enzyme; Amino acid biosynthesis: Chorismate
+1683	putative enzyme; Not classified
+1684	putative enzyme; Not classified
+1685	putative regulator; Not classified
+1686	putative enzyme; Not classified
+1687	putative enzyme; Not classified
+1688	putative enzyme; Not classified
+1690	putative enzyme; Not classified
+1691	enzyme; Central intermediary metabolism: Gluconeogenesis
+1692	regulatory enzyme; Central intermediary metabolism: Gluconeogenesis
+1693	enzyme; Amino acid biosynthesis: Tryptophan
+1697	membrane; Macromolecule synthesis, modification: Lipoprotein
+1698	transport; Transport of small molecules: Other
+1699	transport; Transport of small molecules: Other
+1700	transport; Transport of small molecules: Other
+1701	factor; DNA - replication, repair, restriction/modification
+1702	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1703	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1704	leader; Aminoacyl tRNA synthetases, tRNA modification
+1705	structural component; Ribosomal proteins - synthesis, modification
+1706	structural component; Ribosomal proteins - synthesis, modification
+1707	factor; Proteins - translation and modification
+1708	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1712	enzyme; Energy metabolism, carbon: Glycolysis
+1716	putative enzyme; Not classified
+1718	putative enzyme; Not classified
+1721	enzyme; Detoxification
+1722	enzyme; Degradation of small molecules: N,N'-diacetylchitobiose
+1723	enzyme; Degradation of small molecules: N,N'-diacetylchitobiose
+1724	regulator; Degradation of small molecules: Carbon compounds
+1725	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1726	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1727	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1728	regulator; Global regulatory functions
+1729	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+1730	putative enzyme; Not classified
+1733	enzyme; Not classified
+1734	enzyme; Not classified
+1735	enzyme; Not classified
+1736	enzyme; Not classified
+1737	enzyme; Amino acid biosynthesis: Arginine
+1738	enzyme; Degradation of DNA
+1744	putative transport; Not classified
+1745	putative transport; Not classified
+1746	putative enzyme; Central intermediary metabolism: Sulfur metabolism
+1747	putative enzyme; Not classified
+1750	enzyme; Amino acid biosynthesis: Glutamate
+1752	enzyme; DNA - replication, repair, restriction/modification
+1753	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1755	enzyme; Degradation of proteins, peptides, glyco
+1756	enzyme; Degradation of small molecules: Amino acids
+1758	putative transport; Not classified
+1759	putative regulator; Not classified
+1761	putative enzyme; Not classified
+1762	putative enzyme; Not classified
+1763	putative enzyme; Not classified
+1764	putative transport; Not classified
+1765	putative enzyme; Not classified
+1768	enzyme; Energy metabolism, carbon: Glycolysis
+1769	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+1770	enzyme; Degradation of small molecules: Carbon compounds
+1779	putative regulator; Not classified
+1780	putative transport; Not classified
+1790	regulator; Not classified
+1791	enzyme; Not classified
+1792	putative transport; Not classified
+1794	putative enzyme; Not classified
+1795	enzyme; Degradation of RNA
+1796	enzyme; Degradation of small molecules: Fatty acids
+1797	membrane; Not classified
+1798	enzyme; tRNA modification
+1799	putative enzyme; Not classified
+1800	putative enzyme; Not classified
+1803	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+1805	enzyme; Degradation of small molecules: Amino acids
+1807	putative transport; Not classified
+1808	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1809	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1810	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1812	putative transport; Not classified
+1813	enzyme; rRNA modification
+1814	phenotype; Not classified
+1817	regulator; Not classified
+1819	regulator; Not classified
+1820	putative transport; Not classified
+1821	orf; Adaptations, atypical conditions
+1822	enzyme; Degradation of proteins, peptides, glyco
+1827	enzyme; rRNA modification
+1830	regulator; Not classified
+1832	putative transport; Drug/analog sensitivity
+1834	enzyme; DNA - replication, repair, restriction/modification
+1835	putative enzyme; Not classified
+1837	enzyme; Degradation of proteins, peptides, glyco
+1841	enzyme; Purine ribonucleotide biosynthesis
+1842	enzyme; Central intermediary metabolism: Entner-Douderoff
+1843	enzyme; Central intermediary metabolism: Entner-Douderoff
+1844	enzyme; Energy metabolism, carbon: Oxidative branch, pentose pathway
+1846	enzyme; Energy metabolism, carbon: Glycolysis
+1847	putative factor; Adaptations, atypical conditions
+1848	enzyme; Murein sacculus, peptidoglycan
+1849	putative factor; Not classified
+1850	putative transport; Not classified
+1852	enzyme; DNA - replication, repair, restriction/modification
+1853	enzyme; DNA - replication, repair, restriction/modification
+1856	enzyme; DNA - replication, repair, restriction/modification
+1858	enzyme; folate metabolism
+1859	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1863	enzyme; tRNA modification
+1864	enzyme; tRNA modification
+1865	enzyme; Central intermediary metabolism
+1866	putative enzyme; Not classified
+1867	putative transport; Detoxification
+1869	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+1871	structural component; Surface structures
+1872	putative structural component; Surface structures
+1873	structural component; Not classified
+1874	regulator; Chemotaxis and mobility
+1875	regulator; Chemotaxis and mobility
+1876	enzyme; Chemotaxis and mobility
+1877	enzyme; Chemotaxis and mobility
+1878	regulator; Chemotaxis and mobility
+1879	regulator; Chemotaxis and mobility
+1880	regulator; Chemotaxis and mobility
+1881	enzyme; Chemotaxis and mobility
+1882	structural component; Chemotaxis and mobility
+1883	phenotype; Chemotaxis and mobility
+1884	regulator; Surface structures
+1885	regulator; Surface structures
+1886	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1887	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1888	putative regulator; Not classified
+1889	enzyme; Osmotic adaptation
+1890	enzyme; Osmotic adaptation
+1891	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1892	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1893	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+1894	putative carrier; Transport of small molecules: Cations
+1898	carrier; Transport of small molecules: Cations
+1900	transport; Transport of small molecules: Amino acids, amines
+1902	enzyme; Macromolecule synthesis, modification: Phospholipids
+1903	enzyme; Degradation of DNA
+1904	putative regulator; Not classified
+1906	regulator; Cell division
+1907	putative transport; Not classified
+1908	putative transport; Not classified
+1909	putative enzyme; Not classified
+1910	putative transport; Not classified
+1911	structural component; Unknown
+1912	factor; Surface structures
+1913	structural component; Surface structures
+1914	putative structure; Surface structures
+1915	regulator; Surface structures
+1916	regulator; Surface structures
+1917	enzyme; Degradation of polysaccharides
+1919	putative transport; Not classified
+1925	structural component; Surface structures
+1926	structural component; Surface structures
+1927	structural component; Surface structures
+1928	transport; Surface structures
+1929	enzyme; Surface structures
+1930	structural component; Surface structures
+1931	structural component; Surface structures
+1932	putative structure; Surface structures
+1933	structural component; Surface structures
+1934	structural component; Surface structures
+1935	putative structure; Surface structures
+1936	putative structure; Surface structures
+1937	putative structure; Surface structures
+1938	putative enzyme; Surface structures
+1939	regulator; Surface polysaccharides & antigens
+1946	putative membrane; Not classified
+1947	enzyme; Degradation of DNA
+1948	enzyme; DNA - replication, repair, restriction/modification
+1953	putative regulator; Not classified
+1954	putative regulator; Not classified
+1955	enzyme; Purine catabolism
+1956	putative enzyme; Not classified
+1959	putative enzyme; Not classified
+1961	putative factor; Not classified
+1963	putative transport; Not classified
+1964	enzyme; Salvage of nucleosides and nucleotides
+1967	regulator; Amino acid biosynthesis: Cysteine
+1968	regulator; Central intermediary metabolism
+1969	enzyme; Murein sacculus, peptidoglycan
+1970	enzyme; Biosynthesis of cofactors, carriers: Cobalamin
+1971	enzyme; Biosynthesis of cofactors, carriers: Cobalamin
+1972	enzyme; Biosynthesis of cofactors, carriers: Cobalamin
+1974	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1978	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1979	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+1981	membrane; Outer membrane constituents; Phage or Prophage Related
+1982	Phage or Prophage Related
+1983	Phage or Prophage Related
+1984	Phage or Prophage Related
+1985	Phage or Prophage Related
+1986	Phage or Prophage Related
+1990	phenotype; Not classified
+1993	putative enzyme; Murein sacculus, peptidoglycan
+1994	enzyme; Degradation of DNA
+1996	putative transport; Not classified
+1997	transport; Not classified
+1999	putative regulator; Not classified
+2000	putative enzyme; Not classified
+2003	leader; Amino acid biosynthesis: Histidine
+2004	enzyme; Amino acid biosynthesis: Histidine
+2005	enzyme; Amino acid biosynthesis: Histidine
+2006	enzyme; Amino acid biosynthesis: Histidine
+2007	enzyme; Amino acid biosynthesis: Histidine
+2008	enzyme; Amino acid biosynthesis: Histidine
+2009	enzyme; Amino acid biosynthesis: Histidine
+2010	enzyme; Amino acid biosynthesis: Histidine
+2011	enzyme; Amino acid biosynthesis: Histidine
+2012	regulator; Outer membrane constituents
+2013	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2014	enzyme; Energy metabolism, carbon: Oxidative branch, pentose pathway
+2016	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2017	putative enzyme; Not classified
+2018	putative enzyme; Not classified
+2019	enzyme; Lipopolysaccharide biosynthesis
+2020	enzyme; Macromolecule metabolism: Lipopolysaccharide
+2021	enzyme; Degradation of small molecules: Carbon compounds
+2022	putative transport; Surface polysaccharides & antigens
+2023	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2024	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2025	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2026	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2027	putative enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2029	putative enzyme; Not classified
+2030	putative enzyme; Not classified
+2031	putative transport; Protein, peptide secretion
+2032	putative enzyme; Not classified
+2033	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2034	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2035	putative enzyme; Not classified
+2036	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2038	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+2039	putative enzyme; Not classified
+2040	putative enzyme; Not classified
+2041	putative enzyme; Phage-related functions and prophages
+2042	putative enzyme; Not classified
+2043	putative enzyme; Not classified
+2044	putative regulator; Not classified
+2045	enzyme; Not classified
+2046	enzyme; Not classified
+2047	transport; Not classified
+2048	putative transport; Not classified
+2049	phenotype; Outer membrane constituents
+2050	enzyme; 2'-Deoxyribonucleotide metabolism
+2051	enzyme; Central intermediary metabolism: Nucleotide interconversions
+2052	putative regulator; Not classified
+2053	enzyme; DNA - replication, repair, restriction/modification
+2054	putative regulator; Not classified
+2055	putative enzyme; Not classified
+2061	putative membrane; Not classified
+2064	putative transport; Not classified
+2065	enzyme; RNA synthesis, modification, DNA transcription
+2066	regulator; RNA synthesis, modification, DNA transcription
+2069	Phage or Prophage Related
+2074	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2075	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2076	enzyme; Degradation of small molecules: Carbon compounds
+2078	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2079	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2080	putative enzyme; Not classified
+2081	enzyme; Degradation of small molecules: Carbon compounds
+2083	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2085	putative enzyme; Not classified
+2086	putative regulator; Not classified
+2088	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+2089	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+2093	putative structural component; Surface structures
+2094	putative membrane; Not classified
+2095	putative factor; Surface structures
+2096	putative structural component; Surface structures
+2098	putative enzyme; Not classified
+2099	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+2101	putative regulator; Not classified
+2107	enzyme; Transport of small molecules: Cations
+2110	putative regulator; Not classified
+2111	regulator; Not classified
+2113	putative transport; Not classified
+2114	putative transport; Not classified
+2115	putative transport; Not classified
+2116	putative transport; Not classified
+2117	enzyme; Degradation of small molecules: Carbon compounds
+2118	enzyme; Energy metabolism, carbon: Aerobic respiration
+2119	putative enzyme; Murein sacculus, peptidoglycan
+2122	putative enzyme; Not classified
+2125	enzyme; tRNA modification
+2127	putative transport; Not classified
+2128	enzyme; Salvage of nucleosides and nucleotides
+2129	transport; Drug/analog sensitivity
+2131	enzyme; pyrimidine metabolism
+2132	enzyme; pyrimidine metabolism
+2133	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2134	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2135	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2136	regulator; Degradation of small molecules: Carbon compounds
+2138	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+2139	enzyme; Formaldehyde degradation
+2140	membrane; Outer membrane constituents
+2141	transport; Transport of small molecules: Amino acids, amines
+2142	putative regulator; Not classified
+2144	enzyme; Degradation of DNA
+2145	putative enzyme; Not classified
+2146	putative transport; Not classified
+2148	putative regulator; Not classified
+2149	putative transport; Not classified
+2150	enzyme; pseudouridine catabolism
+2151	enzyme; pseudouridine utilization
+2152	regulator; Degradation of small molecules: Carbon compounds
+2153	enzyme; Energy metabolism, carbon: Glycolysis
+2154	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2155	orf; Not classified
+2158	putative enzyme; Not classified
+2159	enzyme; Not classified
+2161	enzyme; Murein sacculus, peptidoglycan
+2164	putative transport; Not classified
+2165	putative transport; Not classified
+2166	putative transport; Not classified
+2168	transport; Drug/analog sensitivity
+2169	enzyme; rRNA modification
+2170	putative enzyme; Not classified
+2171	structural component; Ribosomal proteins - synthesis, modification
+2174	putative enzyme; Not classified
+2176	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2177	regulator; Energy metabolism, carbon: Anaerobic respiration
+2178	putative enzyme; Energy metabolism, carbon: Electron transport
+2179	enzyme; Energy metabolism, carbon: Electron transport
+2180	putative enzyme; Energy metabolism, carbon: Electron transport
+2181	putative enzyme; Energy metabolism, carbon: Electron transport
+2182	transport; Protein, peptide secretion
+2183	transport; Protein, peptide secretion
+2184	transport; Protein, peptide secretion
+2185	transport; Protein, peptide secretion
+2186	putative enzyme; Energy metabolism, carbon: Electron transport
+2187	carrier; Energy metabolism, carbon: Electron transport
+2188	carrier; Energy metabolism, carbon: Electron transport
+2189	carrier; Energy metabolism, carbon: Electron transport
+2190	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+2192	carrier; Energy metabolism, carbon: Electron transport
+2193	regulator; Degradation of proteins, peptides, glyco
+2195	putative transport; Not classified
+2196	putative enzyme; DNA - replication, repair, restriction/modification
+2197	enzyme; DNA - replication, repair, restriction/modification
+2199	membrane; Outer membrane constituents
+2200	putative regulator; Not classified
+2201	regulator; Surface polysaccharides & antigens
+2202	enzyme; Surface polysaccharides & antigens
+2203	regulator; Not classified
+2204	regulator; Degradation of small molecules: Fatty acids
+2205	enzyme; Degradation of small molecules: Fatty acids
+2206	enzyme; Degradation of small molecules: Fatty acids
+2207	transport; Degradation of small molecules: Fatty acids
+2208	enzyme; Degradation of small molecules: Fatty acids
+2214	enzyme; DNA - replication, repair, restriction/modification
+2215	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2216	putative transport; Not classified
+2217	enzyme; 2'-Deoxyribonucleotide metabolism
+2218	enzyme; 2'-Deoxyribonucleotide metabolism
+2220	phenotype; Adaptations, atypical conditions
+2222	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2223	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2224	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2225	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2226	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2229	enzyme; Sugar metabolism
+2230	putative transport; Not classified
+2231	enzyme; Sugar metabolism
+2232	putative regulator; Not classified
+2236	phenotype; Not classified
+2237	putative enzyme; Not classified
+2238	putative enzyme; Not classified
+2239	putative enzyme; Not classified
+2242	transport; Transport of small molecules: lipids
+2243	transport; Transport of small molecules: lipids
+2244	putative transport; Drug/analog sensitivity
+2245	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2246	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2247	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2248	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2249	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2250	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2254	putative enzyme; Not classified
+2256	putative enzyme; Not classified
+2261	enzyme; Energy metabolism, carbon: Aerobic respiration
+2262	enzyme; Energy metabolism, carbon: Aerobic respiration
+2263	enzyme; Energy metabolism, carbon: Aerobic respiration
+2264	enzyme; Energy metabolism, carbon: Aerobic respiration
+2265	enzyme; Energy metabolism, carbon: Aerobic respiration
+2266	enzyme; Energy metabolism, carbon: Aerobic respiration
+2267	enzyme; Energy metabolism, carbon: Aerobic respiration
+2268	enzyme; Energy metabolism, carbon: Aerobic respiration
+2269	enzyme; Energy metabolism, carbon: Aerobic respiration
+2270	enzyme; Energy metabolism, carbon: Aerobic respiration
+2271	enzyme; Energy metabolism, carbon: Aerobic respiration
+2272	enzyme; Energy metabolism, carbon: Aerobic respiration
+2273	enzyme; Energy metabolism, carbon: Aerobic respiration
+2274	regulator; Energy metabolism, carbon: Aerobic respiration
+2275	enzyme; Amino acid biosynthesis: Alanine
+2276	phenotype; Not classified
+2277	putative transport; Not classified
+2278	putative enzyme; Not classified
+2281	enzyme; Energy metabolism, carbon: Electron transport
+2282	enzyme; Degradation of small molecules: Carbon compounds
+2283	putative enzyme; Not classified
+2284	putative regulator; Not classified
+2288	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2289	putative enzyme; Not classified
+2291	transport; Transport of small molecules: Amino acids, amines
+2292	transport; Transport of small molecules: Amino acids, amines
+2293	transport; Transport of small molecules: Amino acids, amines
+2294	transport; Transport of small molecules: Amino acids, amines
+2295	transport; Transport of small molecules: Amino acids, amines
+2296	putative enzyme; Not classified
+2297	enzyme; Purine ribonucleotide biosynthesis
+2298	membrane; Colicin-related functions
+2299	putative membrane; Not classified
+2300	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+2301	enzyme; Fatty acid and phosphatidic acid biosynthesis
+2303	enzyme; tRNA modification
+2304	putative transport; Not classified
+2305	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+2306	putative factor; Surface structures
+2307	putative transport; Not classified
+2308	enzyme; Fatty acid and phosphatidic acid biosynthesis
+2309	enzyme; tRNA modification
+2311	enzyme; Protein modification
+2312	putative structure; Not classified
+2313	enzyme; Murein sacculus, peptidoglycan
+2314	enzyme; Amino acid biosynthesis: Chorismate
+2315	putative enzyme; Not classified
+2318	putative structural component; Surface structures
+2319	putative structural component; Surface structures
+2320	putative structural component; Surface structures
+2321	putative factor; Surface structures
+2323	putative structural component; Surface structures
+2325	putative enzyme; Not classified
+2326	putative enzyme; Not classified
+2328	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2330	transport; Transport of small molecules: phospholipids; Macromolecule synthesis, modification: Lipoprotein
+2331	putative transport; Not classified
+2332	Phage or Prophage Related
+2333	Phage or Prophage Related
+2334	Phage or Prophage Related
+2335	Phage or Prophage Related
+2337	Phage or Prophage Related
+2340	Phage or Prophage Related
+2342	Phage or Prophage Related
+2343	Phage or Prophage Related
+2344	Phage or Prophage Related
+2345	Phage or Prophage Related
+2346	Phage or Prophage Related
+2349	regulator; Degradation of small molecules: Amino acids
+2350	transport; Not classified
+2351	enzyme; Degradation of small molecules: Amino acids
+2352	putative transport; Drug/analog sensitivity
+2353	putative transport; Drug/analog sensitivity
+2354	putative regulator; Not classified
+2355	putative regulator; Not classified
+2356	putative enzyme; Not classified
+2357	putative factor; Not classified
+2358	enzyme; Oxalate catabolism
+2359	enzyme; Oxalate catabolism
+2363	enzyme; Not classified
+2365	enzyme; Amino acid biosynthesis: Alanine
+2366	putative regulator; Not classified
+2367	putative regulator; Not classified
+2368	putative regulator; Not classified
+2369	putative transport; Not classified
+2371	putative enzyme; Not classified
+2372	putative transport; Not classified
+2373	putative transport; Not classified
+2374	enzyme; Degradation of small molecules: Carbon compounds
+2377	putative transport; Not classified
+2378	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2379	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2383	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+2384	regulator; Central intermediary metabolism: Nucleotide interconversions
+2385	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2386	enzyme; Central intermediary metabolism: Nucleotide interconversions
+2387	putative enzyme; Not classified
+2388	putative regulator; Not classified
+2389	putative enzyme; Not classified
+2391	enzyme; DNA - replication, repair, restriction/modification
+2392	membrane; Cell division
+2393	putative transport; Transport of small molecules: Anions
+2394	enzyme; Amino acid biosynthesis: Cysteine
+2395	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2396	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2397	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2398	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+2401	enzyme; Amino acid biosynthesis: Cysteine
+2402	transport; Transport of small molecules: Anions
+2403	transport; Transport of small molecules: Anions
+2404	transport; Transport of small molecules: Anions
+2405	transport; Transport of small molecules: Anions
+2406	putative enzyme; Not classified
+2408	putative regulator; Not classified
+2409	transport; Murein sacculus, peptidoglycan
+2410	enzyme; Murein sacculus, peptidoglycan
+2411	enzyme; Transport of small molecules: Cations
+2415	enzyme; Murein sacculus, peptidoglycan
+2416	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+2417	regulator; Not classified
+2420	enzyme; Degradation of small molecules: Amines
+2421	enzyme; Degradation of small molecules: Amines
+2422	Phage or Prophage Related
+2423	Phage or Prophage Related
+2424	Phage or Prophage Related
+2425	Phage or Prophage Related
+2426	Phage or Prophage Related
+2427	Phage or Prophage Related
+2428	Phage or Prophage Related
+2429	Phage or Prophage Related
+2430	Phage or Prophage Related
+2432	putative transport; Degradation of small molecules: Amines
+2433	putative enzyme; Degradation of small molecules: Amines
+2434	putative enzyme; Degradation of small molecules: Amines
+2435	putative enzyme; Degradation of small molecules: Amines
+2436	phenotype; Not classified
+2437	phenotype; Not classified
+2438	putative enzyme; Degradation of small molecules: Amines
+2440	putative enzyme; Not classified
+2443	putative enzyme; Not classified
+2444	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2445	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2448	putative enzyme; Not classified
+2449	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2450	putative transport; Drug/analog sensitivity
+2453	enzyme; Amino acid biosynthesis: Lysine
+2456	enzyme; tRNA modification
+2457	putative enzyme; Not classified
+2458	enzyme; Purine ribonucleotide biosynthesis
+2459	membrane; Macromolecule synthesis, modification: Lipoprotein
+2460	enzyme; Amino acid biosynthesis: Lysine
+2461	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+2462	phenotype; Not classified
+2463	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2464	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2465	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2466	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2467	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2468	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2469	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2470	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2471	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2472	putative factor; Not classified
+2473	putative regulator; Not classified
+2474	putative transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2475	putative transport; Not classified
+2477	putative enzyme; Not classified
+2478	putative factor; Not classified
+2479	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2480	enzyme; Salvage of nucleosides and nucleotides
+2481	enzyme; Purine ribonucleotide biosynthesis
+2482	enzyme; Purine ribonucleotide biosynthesis
+2483	enzyme; Central intermediary metabolism: Phosphorus compounds
+2484	enzyme; Central intermediary metabolism: Phosphorus compounds
+2485	enzyme; Not classified
+2487	putative membrane; Not classified
+2489	enzyme; Purine ribonucleotide biosynthesis
+2490	enzyme; Purine ribonucleotide biosynthesis
+2491	enzyme; Degradation of DNA
+2493	putative factor; Not classified
+2496	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+2498	putative membrane; Not classified
+2499	enzyme; rRNA modification
+2500	enzyme; Purine ribonucleotide biosynthesis
+2501	enzyme; Murein sacculus, peptidoglycan
+2503	putative enzyme; Not classified
+2504	phenotype; Not classified
+2505	putative enzyme; Not classified
+2507	carrier; Energy metabolism, carbon: Electron transport
+2508	factor; Chaperones
+2509	factor; Chaperones
+2510	putative regulator; Not classified
+2512	enzyme; tRNA modification
+2513	regulation of Fe-S cluster assembly genes
+2514	enzyme; tRNA modification
+2515	phenotype; Global regulatory functions
+2516	putative enzyme; Not classified
+2518	transport; Degradation of small molecules: Carbon compounds
+2519	regulator; Degradation of small molecules: Carbon compounds
+2521	enzyme; Degradation of small molecules: Carbon compounds
+2522	enzyme; Degradation of small molecules: Carbon compounds
+2523	enzyme; Degradation of small molecules: Carbon compounds
+2524	enzyme; Degradation of small molecules: Carbon compounds
+2525	enzyme; Degradation of small molecules: Carbon compounds
+2528	putative enzyme; Not classified
+2529	putative transport; Not classified
+2530	putative transport; Not classified
+2531	putative regulator; Not classified
+2533	putative regulator; Not classified
+2534	enzyme; Amino acid biosynthesis: Glycine
+2535	enzyme; Energy metabolism, carbon: Electron transport
+2536	regulator; Amino acid biosynthesis: Glutamine
+2537	putative regulator; Not classified
+2538	phenotype; Not classified
+2539	putative regulator; Not classified
+2540	enzyme; Purine ribonucleotide biosynthesis
+2541	enzyme; Transporter; Not classified
+2542	enzyme; tRNA modification
+2543	enzyme; Macromolecule synthesis, modification: Phospholipids
+2547	enzyme; Fatty acid and phosphatidic acid biosynthesis
+2548	enzyme; Biosynthesis of cofactors, carriers: Pyridoxine
+2549	regulator; DNA - replication, repair, restriction/modification
+2550	factor; Global regulatory functions
+2551	enzyme; Degradation of RNA
+2552	enzyme; Protein, peptide secretion
+2553	factor; Proteins - translation and modification
+2554	regulator; Global regulatory functions
+2555	regulator; Global regulatory functions
+2556	regulator; Global regulatory functions
+2557	regulator; Global regulatory functions
+2558	enzyme; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+2559	enzyme; tRNA modification
+2560	enzyme; RNA synthesis, modification, DNA transcription
+2561	putative regulator; Not classified
+2563	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+2564	enzyme; DNA - replication, repair, restriction/modification
+2566	putative enzyme; Not classified
+2568	enzyme; Proteins - translation and modification
+2569	enzyme; Macromolecule synthesis, modification: Phospholipids
+2571	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2572	putative enzyme; Degradation of proteins, peptides, glyco
+2574	enzyme; rRNA modification
+2576	putative regulator; Not classified
+2577	leader; Amino acid biosynthesis: Phenylalanine
+2578	enzyme; Amino acid biosynthesis: Phenylalanine
+2579	enzyme; Amino acid biosynthesis: Tyrosine
+2580	enzyme; Amino acid biosynthesis: Tyrosine
+2584	putative membrane; Not classified
+2585	structural component; Ribosomal proteins - synthesis, modification
+2586	enzyme; tRNA modification
+2587	enzyme; rRNA processing
+2588	structural component; Ribosomal proteins - synthesis, modification
+2589	transport; Protein, peptide secretion
+2592	IS, phage, Tn; Phage-related functions and prophages
+2594	putative enzyme; DNA - replication, repair, restriction/modification
+2599	Phage or Prophage Related
+2600	Phage or Prophage Related
+2601	IS, phage, Tn; Phage or Prophage Related
+2602	Phage or Prophage Related
+2603	Phage or Prophage Related
+2604	Phage or Prophage Related
+2605	Phage or Prophage Related
+2606	Phage or Prophage Related
+2607	Phage or Prophage Related
+2608	Phage or Prophage Related
+2609	Phage or Prophage Related
+2610	Phage or Prophage Related
+2611	Phage or Prophage Related
+2612	Phage or Prophage Related
+2613	Phage or Prophage Related
+2614	Phage or Prophage Related
+2617	Phage or Prophage Related
+2619	Phage or Prophage Related
+2620	Phage or Prophage Related
+2622	Phage or Prophage Related
+2623	Phage or Prophage Related
+2624	putative transport; Not classified
+2630	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2631	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2632	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2633	regulator; Not classified
+2638	regulator; Basic proteins - synthesis, modification
+2642	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2643	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2644	enzyme; Central intermediary metabolism: Nucleotide interconversions
+2645	enzyme; Central intermediary metabolism: Nucleotide interconversions
+2646	transport; Transport of small molecules: Amino acids, amines
+2647	transport; Transport of small molecules: Amino acids, amines
+2648	transport; Osmotic adaptation
+2652	regulator; Plasmid-related functions
+2653	transport; Drug/analog sensitivity
+2654	putative transport; Drug/analog sensitivity
+2656	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2658	putative enzyme; Not classified
+2659	regulator; Global regulatory functions
+2660	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+2661	putative regulator; Not classified
+2662	enzyme; DNA - replication, repair, restriction/modification
+2663	enzyme; NMN catabolism
+2664	enzyme; Murein sacculus, peptidoglycan
+2665	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2666	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2667	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2668	enzyme; Degradation of small molecules: Carbon compounds
+2669	regulator; Degradation of small molecules: Carbon compounds
+2670	regulator; Degradation of small molecules: Carbon compounds
+2672	regulator; Not classified
+2673	putative enzyme; Not classified
+2674	putative enzyme; Not classified
+2675	regulator; Energy metabolism, carbon: Anaerobic respiration
+2676	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2677	regulator; Degradation of small molecules: Carbon compounds
+2678	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2679	enzyme; Degradation of small molecules: Carbon compounds
+2680	enzyme; Degradation of proteins, peptides, glyco
+2681	factor; Energy metabolism, carbon: Fermentation
+2682	phenotype; Energy metabolism, carbon: Fermentation
+2683	putative enzyme; Energy metabolism, carbon: Fermentation
+2684	enzyme; Energy metabolism, carbon: Fermentation
+2685	enzyme; Energy metabolism, carbon: Fermentation
+2686	enzyme; Energy metabolism, carbon: Fermentation
+2687	putative enzyme; Energy metabolism, carbon: Fermentation
+2688	regulator; Energy metabolism, carbon: Fermentation
+2689	phenotype; Energy metabolism, carbon: Anaerobic respiration
+2690	phenotype; Energy metabolism, carbon: Fermentation
+2691	phenotype; Energy metabolism, carbon: Anaerobic respiration
+2692	phenotype; Energy metabolism, carbon: Anaerobic respiration
+2693	factor; Energy metabolism, carbon: Anaerobic respiration
+2694	regulator; Energy metabolism, carbon: Fermentation
+2696	enzyme; DNA - replication, repair, restriction/modification
+2697	enzyme; Not classified
+2698	putative regulator; Not classified
+2699	putative enzyme; Not classified
+2701	putative enzyme; Not classified
+2703	putative transport; Not classified
+2704	enzyme; Global regulatory functions
+2705	enzyme; Murein sacculus, peptidoglycan; membrane; Macromolecule synthesis, modification: Lipoprotein
+2706	enzyme; Proteins - translation and modification
+2707	phenotype; Not classified
+2708	enzyme; tRNA modification
+2712	putative enzyme; Not classified
+2713	enzyme; Central intermediary metabolism: Sulfur metabolism
+2714	enzyme; Central intermediary metabolism: Sulfur metabolism
+2715	enzyme; Central intermediary metabolism: Sulfur metabolism
+2716	enzyme; Proteins - translation and modification
+2725	enzyme; Central intermediary metabolism: Sulfur metabolism
+2726	enzyme; Central intermediary metabolism: Sulfur metabolism
+2727	enzyme; Central intermediary metabolism: Sulfur metabolism
+2728	putative enzyme; Not classified
+2729	putative enzyme; Not classified
+2731	putative regulator; Not classified
+2732	putative enzyme; Not classified
+2733	putative transport; Not classified
+2734	putative transport; Not classified
+2736	putative enzyme; Not classified
+2737	putative transport; Not classified
+2738	putative enzyme; Not classified
+2739	enzyme; cofactor biosynthesis
+2742	enzyme; Energy metabolism, carbon: Glycolysis
+2743	enzyme; Central intermediary metabolism: Nucleotide interconversions
+2745	putative factor; Not classified
+2746	phenotype; Not classified
+2747	enzyme; Global regulatory functions
+2748	enzyme; rRNA modification
+2749	enzyme; Global regulatory functions
+2751	putative enzyme; Not classified
+2754	enzyme; tRNA modification
+2757	enzyme; Queuosine biosynthesis
+2759	putative transport; Transport of small molecules: Amino acids, amines
+2760	enzyme; Degradation of small molecules: Amino acids
+2762	enzyme; Degradation of small molecules: Carbon compounds
+2763	enzyme; Degradation of small molecules: Carbon compounds
+2764	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2765	enzyme; Degradation of small molecules: Carbon compounds
+2766	enzyme; Degradation of small molecules: Carbon compounds
+2767	phenotype; Degradation of small molecules: Carbon compounds
+2768	regulator; Degradation of small molecules: Carbon compounds
+2769	enzyme; rRNA modification
+2771	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+2775	putative enzyme; Not classified
+2776	enzyme; Murein sacculus, peptidoglycan
+2777	putative enzyme; Not classified
+2778	enzyme; Amino acid biosynthesis: Arginine
+2779	enzyme; Degradation of DNA
+2780	enzyme; Degradation of DNA
+2781	enzyme; Degradation of proteins, peptides, glyco
+2782	enzyme; Degradation of DNA
+2783	putative structural component; Surface structures
+2785	putative structural component; Surface structures
+2786	putative structural component; Surface structures
+2787	enzyme; 2'-Deoxyribonucleotide metabolism
+2788	enzyme; Macromolecule synthesis, modification: Phospholipids
+2789	enzyme; Transport of small molecules: Other
+2790	putative factor; Not classified
+2791	enzyme; DNA - replication, repair, restriction/modification
+2792	putative transport; Not classified
+2794	putative enzyme; Not classified
+2795	orf; Drug/analog sensitivity
+2796	enzyme; Fatty acid and phosphatidic acid biosynthesis
+2797	regulator; Degradation of small molecules: Carbon compounds
+2798	enzyme; Amino acid biosynthesis: Lysine
+2799	regulator; Amino acid biosynthesis: Lysine
+2800	putative transport; Drug/analog sensitivity
+2801	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2802	enzyme; Degradation of small molecules: Carbon compounds
+2803	enzyme; Degradation of small molecules: Carbon compounds
+2804	enzyme; Not classified
+2805	putative transport; Not classified
+2807	putative transport; Not classified
+2813	putative factor; Not classified
+2819	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2820	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2822	putative structure; Not classified
+2824	putative enzyme; Not classified
+2825	putative enzyme; Not classified
+2826	putative regulator; Not classified
+2827	putative enzyme; Not classified
+2828	enzyme; Not classified
+2829	putative enzyme; Not classified
+2831	putative enzyme; Not classified
+2832	putative enzyme; Not classified
+2835	putative enzyme; Not classified
+2836	putative structure; Not classified
+2838	putative enzyme; Not classified
+2839	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2841	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2842	putative enzyme; Not classified
+2843	putative enzyme; Not classified
+2844	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2846	putative enzyme; Not classified
+2847	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+2848	factor; Proteins - translation and modification
+2849	enzyme; Degradation of DNA
+2850	enzyme; Surface structures
+2851	enzyme; DNA - replication, repair, restriction/modification
+2852	enzyme; Energy metabolism, carbon: Aerobic respiration
+2854	factor; Energy metabolism, carbon: TCA cycle
+2856	putative enzyme; Not classified
+2858	enzyme; Degradation of small molecules: Carbon compounds
+2859	putative enzyme; Not classified
+2860	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2861	carrier; Central intermediary metabolism: Pool, multipurpose conversions
+2862	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2863	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2864	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+2865	enzyme; Degradation of proteins, peptides, glyco
+2868	putative enzyme; Not classified
+2870	enzyme; Amino acid biosynthesis: Serine
+2871	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2873	regulator; DNA - replication, repair, restriction/modification
+2874	enzyme; Degradation of small molecules: Fatty acids
+2875	phenotype; Not classified
+2876	enzyme; Not classified
+2877	enzyme; Not classified
+2878	putative regulator; Not classified
+2879	phenotype; Not classified
+2881	transport; Transport of small molecules: Other
+2882	enzyme; Energy metabolism, carbon: Glycolysis
+2883	enzyme; Energy metabolism, carbon: Glycolysis
+2884	enzyme; Central intermediary metabolism
+2885	putative enzyme; Not classified
+2886	putative regulator; Not classified
+2889	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2890	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2891	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+2892	enzyme; Degradation of proteins, peptides, glycopeptides
+2893	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+2894	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+2897	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2898	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+2900	enzyme; Degradation of DNA
+2901	enzyme; rRNA modification
+2902	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+2905	putative transport; Not classified
+2906	putative enzyme; Not classified
+2909	enzyme; Not classified
+2910	putative enzyme; Not classified
+2911	phenotype; Not classified
+2912	enzyme; Degradation of small molecules: Amino acids
+2915	enzyme; tRNA modification
+2916	enzyme; DNA - replication, repair, restriction/modification
+2918	putative enzyme; Murein sacculus, peptidoglycan
+2919	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+2920	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+2921	putative transport; Not classified
+2922	putative transport; Not classified
+2926	putative enzyme; Not classified
+2928	putative transport; Not classified
+2929	enzyme; Central intermediary metabolism: Glyoxylate bypass
+2931	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2932	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+2933	enzyme; Degradation of small molecules: Carbon compounds
+2934	regulator; Degradation of small molecules: Carbon compounds
+2936	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2941	transport; Transport of small molecules: Anions
+2942	enzyme; Central intermediary metabolism: Polyamine biosynthesis
+2944	phenotype; Energy metabolism, carbon: Anaerobic respiration
+2945	regulator; Energy metabolism, carbon: Anaerobic respiration
+2946	phenotype; Energy metabolism, carbon: Anaerobic respiration
+2947	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+2948	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+2949	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+2950	enzyme; Energy metabolism, carbon: Anaerobic respiration
+2951	putative enzyme; Not classified
+2956	putative enzyme; Not classified
+2957	transport; Transport of small molecules: Cations
+2958	transport; Transport of small molecules: Cations
+2959	enzyme; Amino acid biosynthesis: Methionine
+2960	membrane; inner membrane; cell division
+2961	regulator; Not classified
+2962	enzyme; Degradation of small molecules: Carbon compounds
+2967	phenotype; Not classified
+2968	enzyme; Macromolecule synthesis, modification: Phospholipids
+2969	enzyme; DNA - replication, repair, restriction/modification
+2970	putative transport; Not classified
+2978	phenotype; Not classified
+2980	enzyme; DNA - replication, repair, restriction/modification
+2982	regulator; Degradation of small molecules: Carbon compounds
+2985	putative membrane; Cell division
+2987	putative enzyme; Not classified
+2990	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+2992	putative structural component; Surface structures
+2994	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2995	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+2996	putative factor; Surface structures
+2997	structural component; Surface structures
+2998	putative enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+2999	putative enzyme; Not classified
+3000	putative membrane; Not classified
+3003	putative enzyme; Not classified
+3004	enzyme; Proteins - translation and modification
+3007	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3008	putative transport; Drug/analog sensitivity
+3009	putative enzyme; Not classified
+3011	putative regulator; Not classified
+3012	enzyme; Energy metabolism, carbon: Fermentation
+3013	enzyme; Energy metabolism, carbon: Fermentation
+3015	enzyme; tRNA modification
+3016	structural component; Ribosomal proteins - synthesis, modification
+3017	enzyme; DNA - replication, repair, restriction/modification
+3018	factor; Global regulatory functions
+3022	regulator; Degradation of small molecules: Carbon compounds
+3023	putative enzyme; Amino acid biosynthesis: Arginine
+3024	putative enzyme; Not classified
+3025	regulator; Degradation of small molecules: Carbon compounds
+3026	enzyme; Degradation of small molecules: Carbon compounds
+3027	enzyme; Degradation of small molecules: Carbon compounds
+3028	orf; Not classified
+3030	enzyme; Not classified
+3031	orf; Not classified
+3034	enzyme; rRNA modification
+3038	putative transport; Not classified
+3039	putative transport; Not classified
+3041	enzyme; Degradation of small molecules: Carbon compounds
+3042	enzyme; Degradation of small molecules: Carbon compounds
+3043	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3044	regulator; Degradation of small molecules: Carbon compounds
+3045	membrane; inner membrane; cell division
+3052	putative enzyme; Not classified
+3053	putative carrier; Not classified
+3054	putative carrier; Not classified
+3055	putative regulator; Not classified
+3059	putative transport; Not classified
+3061	putative enzyme; Not classified
+3062	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+3063	putative enzyme; Not classified
+3064	transport; Transport of small molecules: Amino acids, amines
+3065	enzyme; Degradation of small molecules: Amino acids
+3066	regulator; Degradation of small molecules: Amino acids
+3067	regulator; Degradation of small molecules: Amino acids
+3075	putative enzyme; Not classified
+3077	regulator; Not classified
+3078	putative enzyme; Not classified
+3079	enzyme; Central intermediary metabolism: Amino sugars
+3082	putative enzyme; Not classified
+3083	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3084	enzyme; Central intermediary metabolism: Amino sugars
+3085	enzyme; Central intermediary metabolism: Amino sugars
+3086	enzyme; Central intermediary metabolism: Amino sugars
+3087	putative enzyme; Not classified
+3088	putative structural component; Surface structures
+3089	putative factor; Surface structures
+3090	putative membrane; Not classified
+3091	putative structural component; Surface structures
+3092	enzyme; rRNA modification
+3093	factor; Not classified
+3096	putative transport; Not classified
+3104	orf; Not classified
+3106	putative enzyme; Not classified
+3107	transport; Transport of small molecules: Amino acids, amines
+3108	enzyme; RNA synthesis, modification, DNA transcription
+3110	putative regulator; Not classified
+3111	enzyme; RNA synthesis, modification, DNA transcription
+3112	structural component; Ribosomal proteins - synthesis, modification
+3113	enzyme; tRNA modification
+3114	factor; Proteins - translation and modification
+3115	factor; Proteins - translation and modification
+3116	factor; RNA synthesis, modification, DNA transcription
+3118	enzyme; Amino acid biosynthesis: Arginine
+3119	putative enzyme; Not classified
+3120	transport; Protein, peptide secretion
+3121	putative enzyme; Central intermediary metabolism: Miscellaneous glucose metabolism
+3122	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+3123	enzyme; Degradation of proteins, peptides, glyco
+3124	enzyme; rRNA modification; phenotype; Cell division
+3126	regulator; Proteins - translation and modification
+3127	enzyme; Murein sacculus, peptidoglycan
+3128	putative factor; Not classified
+3130	structural component; Ribosomal proteins - synthesis, modification
+3131	structural component; Ribosomal proteins - synthesis, modification
+3132	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3133	regulator; Degradation of small molecules: Carbon compounds
+3134	enzyme; Murein sacculus, peptidoglycan
+3136	transport; Transport of small molecules: phospholipids
+3137	transport; Transport of small molecules: phospholipids
+3138	transport; Transport of small molecules: phospholipids
+3139	transport; Transport of small molecules: phospholipids
+3140	transport; Transport of small molecules: phospholipids
+3142	putative enzyme; Not classified
+3145	lipopolysaccharide biosynthesis
+3146	putative transport; Not classified
+3147	regulator; Global regulatory functions
+3148	putative regulator; Global regulatory functions
+3149	enzyme; Transport of small molecules: Amino acids, amines
+3151	transport; Transport of small molecules: Other
+3153	putative enzyme; Not classified
+3154	putative factor; Not classified
+3155	enzyme; Global regulatory functions
+3157	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3158	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3159	regulator; Central intermediary metabolism: Pool, multipurpose conversions
+3160	putative factor; Not classified
+3161	putative membrane; Not classified
+3163	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3164	putative regulator; Not classified
+3166	putative enzyme; Not classified
+3167	putative regulator; Not classified
+3168	putative enzyme; Not classified
+3169	transport; Murein sacculus, peptidoglycan
+3170	enzyme; Surface polysaccharides & antigens
+3171	regulator; Not classified
+3172	putative transport; Not classified
+3173	regulator; Global regulatory functions
+3174	regulator; Global regulatory functions
+3175	structural component; Ribosomal proteins - synthesis, modification
+3176	structural component; Ribosomal proteins - synthesis, modification
+3177	enzyme; Not classified
+3179	enzyme; Degradation of proteins, peptides, glycopeptides
+3180	enzyme; Degradation of proteins, peptides, glyco
+3181	enzyme; Energy metabolism, carbon: TCA cycle
+3182	regulator; Amino acid biosynthesis: Arginine
+3189	phenotype; Not classified
+3191	structural component; Cell division
+3193	structural component; Murein sacculus, peptidoglycan
+3194	structural component; Murein sacculus, peptidoglycan
+3195	phenotype; Cell division
+3197	putative enzyme; Not classified
+3200	carrier; Biosynthesis of cofactors, carriers: biotin carboxyl carrier protein (BCCP)
+3201	enzyme; Fatty acid and phosphatidic acid biosynthesis
+3203	transport; Transport of small molecules: Cations
+3204	enzyme; Ribosomal proteins - synthesis, modification
+3205	enzyme; tRNA modification
+3206	factor; DNA - replication, repair, restriction/modification
+3207	putative enzyme; Not classified
+3209	regulator; Not classified
+3210	membrane; Inner membrane
+3211	membrane; Drug/analog sensitivity
+3214	putative transport; Not classified
+3215	putative transport; Not classified
+3216	putative transport; Not classified
+3217	putative enzyme; Not classified
+3219	enzyme; Amino acid biosynthesis: Chorismate
+3220	enzyme; tRNA modification
+3221	putative enzyme; Not classified
+3224	enzyme; Proteins - translation and modification
+3225	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3226	enzyme; rRNA modification
+3227	transport; Transport of small molecules: Cations
+3228	transport; Transport of small molecules: Other
+3230	putative regulator; Not classified
+3232	structural component; Ribosomal proteins - synthesis, modification
+3233	enzyme; RNA synthesis, modification, DNA transcription
+3234	structural component; Ribosomal proteins - synthesis, modification
+3235	structural component; Ribosomal proteins - synthesis, modification
+3236	structural component; Ribosomal proteins - synthesis, modification
+3237	structural component; Ribosomal proteins - synthesis, modification
+3238	putative transport; Not classified
+3239	structural component; Ribosomal proteins - synthesis, modification
+3240	structural component; Ribosomal proteins - synthesis, modification
+3241	structural component; Ribosomal proteins - synthesis, modification
+3242	structural component; Ribosomal proteins - synthesis, modification
+3243	structural component; Ribosomal proteins - synthesis, modification
+3244	structural component; Ribosomal proteins - synthesis, modification
+3245	structural component; Ribosomal proteins - synthesis, modification
+3246	structural component; Ribosomal proteins - synthesis, modification
+3247	structural component; Ribosomal proteins - synthesis, modification
+3248	structural component; Ribosomal proteins - synthesis, modification
+3249	structural component; Ribosomal proteins - synthesis, modification
+3250	structural component; Ribosomal proteins - synthesis, modification
+3251	structural component; Ribosomal proteins - synthesis, modification
+3252	structural component; Ribosomal proteins - synthesis, modification
+3253	structural component; Ribosomal proteins - synthesis, modification
+3254	structural component; Ribosomal proteins - synthesis, modification
+3255	structural component; Ribosomal proteins - synthesis, modification
+3256	structural component; Ribosomal proteins - synthesis, modification
+3257	structural component; Ribosomal proteins - synthesis, modification
+3258	structural component; Ribosomal proteins - synthesis, modification
+3259	structural component; Ribosomal proteins - synthesis, modification
+3260	factor; DNA - replication, repair, restriction/modification
+3261	putative transport; Not classified
+3262	putative transport; Not classified
+3263	putative transport; Not classified
+3264	putative transport; Not classified
+3265	putative transport; Not classified
+3266	putative transport; Not classified
+3267	putative transport; Not classified
+3268	putative transport; Not classified
+3269	putative transport; Not classified
+3270	putative transport; Not classified
+3271	putative transport; Not classified
+3272	putative transport; Not classified
+3273	enzyme; Degradation of proteins, peptides, glyco
+3274	carrier; Transport of small molecules: Cations
+3276	putative enzyme; Not classified
+3277	factor; Proteins - translation and modification
+3278	factor; Proteins - translation and modification
+3279	structural component; Ribosomal proteins - synthesis, modification
+3280	structural component; Ribosomal proteins - synthesis, modification
+3285	enzyme; Proteins - translation and modification
+3287	enzyme; Proteins - translation and modification
+3289	transport; Transport of small molecules: Cations
+3290	putative enzyme; Not classified
+3291	putative transport; Not classified
+3294	putative enzyme; Central intermediary metabolism: Miscellaneous glucose metabolism
+3296	regulator; Global regulatory functions
+3298	enzyme; Amino acid biosynthesis: Arginine
+3299	enzyme; Biosynthesis of cofactors, carriers: Folic acid
+3302	enzyme; Proteins - translation and modification
+3303	putative transport; Not classified
+3304	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3305	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3306	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3307	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3309	putative transport; Not classified
+3310	putative transport; Not classified
+3312	putative enzyme; Not classified
+3313	putative regulator; Not classified
+3314	putative enzyme; Not classified
+3315	putative transport; Not classified
+3317	putative enzyme; Not classified
+3318	putative enzyme; Not classified
+3322	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3323	enzyme; Degradation of small molecules: Carbon compounds
+3324	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+3325	enzyme; DNA - replication, repair, restriction/modification
+3326	putative membrane; Cell division
+3327	enzyme; Amino acid biosynthesis: Chorismate
+3328	enzyme; Amino acid biosynthesis: Chorismate
+3329	putative transport; Not classified
+3334	enzyme; Murein sacculus, peptidoglycan
+3336	putative factor; Not classified
+3337	putative enzyme; Not classified
+3340	putative transport; Not classified
+3341	enzyme; Central intermediary metabolism: Gluconeogenesis
+3342	enzyme; Global regulatory functions
+3343	regulator; Global regulatory functions
+3344	regulator; RNA synthesis, modification, DNA transcription
+3346	transport; Transport of small molecules: Cations
+3347	transport; Transport of small molecules: Cations
+3350	enzyme; Biosynthesis of cofactors, carriers: Biotin
+3353	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3354	enzyme; Degradation of polysaccharides
+3355	enzyme; Degradation of small molecules: Carbon compounds
+3356	regulator; Degradation of small molecules: Carbon compounds
+3357	enzyme; RNA synthesis, modification, DNA transcription
+3359	putative regulator; Not classified
+3361	phenotype; Energy metabolism, carbon: Anaerobic respiration
+3362	phenotype; Energy metabolism, carbon: Anaerobic respiration
+3363	enzyme; Energy metabolism, carbon: Aerobic respiration
+3365	enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3366	enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3367	enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3368	enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3369	enzyme; Macromolecule synthesis, modification: Polysaccharides - (cytoplasmic)
+3370	enzyme; Amino acid biosynthesis: Lysine
+3372	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3373	enzyme; Central intermediary metabolism: Miscellaneous glucose metabolism
+3374	regulator; Central intermediary metabolism: Entner-Douderoff
+3376	putative regulator; Not classified
+3377	enzyme; Not classified
+3380	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3381	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3382	factor; Adaptations, atypical conditions
+3383	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3385	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3386	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3387	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3388	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3389	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3390	transport; Transport of small molecules: Amino acids, amines
+3391	transport; Transport of small molecules: Amino acids, amines
+3392	transport; Transport of small molecules: Amino acids, amines
+3393	transport; Transport of small molecules: Amino acids, amines
+3394	transport; Transport of small molecules: Amino acids, amines
+3395	factor; Biosynthesis of cofactors, carriers: Pantothenate
+3396	transport; Transport of small molecules: Amino acids, amines
+3397	factor; Global regulatory functions
+3398	membrane; Cell division
+3399	phenotype; Not classified
+3400	membrane; Cell division
+3401	enzyme; rRNA modification
+3403	putative factor; Not classified
+3404	putative enzyme; Not classified
+3405	transport; Transport of small molecules: Cations
+3409	putative transport; Not classified
+3412	transport; Transport of small molecules: Cations
+3413	transport; Transport of small molecules: Cations
+3414	transport; Transport of small molecules: Cations
+3415	transport; Transport of small molecules: Cations
+3416	transport; Transport of small molecules: Cations
+3421	putative factor; Not classified
+3422	putative transport; Not classified
+3423	putative transport; Not classified
+3424	putative membrane; Not classified
+3428	putative enzyme; Not classified
+3429	transport; Transport of small molecules: Anions
+3431	putative regulator; Adaptations, atypical conditions
+3432	transport; Not classified
+3433	enzyme; rRNA modification
+3434	enzyme; Degradation of proteins, peptides, glyco
+3435	enzyme; rRNA modification
+3436	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3438	regulator; Drug/analog sensitivity
+3439	transport; Drug/analog sensitivity
+3440	enzyme; Drug/analog sensitivity
+3442	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3443	membrane; Outer membrane constituents
+3445	putative transport; Not classified
+3449	regulator; Not classified
+3450	putative membrane; Not classified
+3451	putative transport; Not classified
+3452	putative regulator; Not classified
+3454	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3455	putative enzyme; Not classified
+3456	enzyme; Degradation of small molecules: Carbon compounds
+3457	putative regulator; Not classified
+3458	putative regulator; Not classified
+3460	putative transport; Not classified
+3463	enzyme; Degradation of small molecules: Carbon compounds
+3465	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3467	putative enzyme; Not classified
+3470	putative enzyme; Not classified
+3477	putative transport; Not classified
+3478	transport; Not classified
+3479	transport; Not classified
+3480	transport; Not classified
+3481	transport; Not classified
+3482	transport; Not classified
+3484	putative transport; Drug/analog sensitivity
+3485	putative enzyme; Not classified
+3486	enzyme; DNA - replication, repair, restriction/modification
+3488	enzyme; Biosynthesis of cofactors, carriers: Biotin
+3489	putative membrane; Not classified
+3493	regulator; Adaptations, atypical conditions
+3495	component of addiction module (incomplete)
+3496	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3497	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+3498	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3499	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3504	enzyme; Degradation of small molecules: Carbon compounds
+3505	enzyme; Degradation of small molecules: Carbon compounds
+3506	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3507	transport; Sugar metabolism
+3508	putative transport; Not classified
+3509	putative regulator; Degradation of small molecules: Carbon compounds
+3510	putative enzyme; Not classified
+3511	enzyme; Degradation of polysaccharides
+3512	enzyme; Amino acid biosynthesis: Alanine
+3514	putative regulator; Not classified
+3515	putative enzyme; Not classified
+3516	putative enzyme; Not classified
+3517	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3518	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3519	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3520	enzyme; Degradation of small molecules: Carbon compounds
+3521	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3522	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3523	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3526	putative membrane; Not classified
+3527	putative regulator; Not classified
+3528	putative membrane; Not classified
+3530	enzyme; Degradation of small molecules: Carbon compounds
+3531	enzyme; Not classified
+3532	factor; Proteins - translation and modification
+3533	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+3534	putative enzyme; Not classified
+3543	putative membrane; Not classified
+3545	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3546	enzyme; Degradation of small molecules: Carbon compounds
+3547	regulator; Degradation of small molecules: Carbon compounds
+3550	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3551	regulator; Energy metabolism, carbon: Aerobic respiration
+3552	enzyme; Energy metabolism, carbon: Aerobic respiration
+3553	enzyme; tRNA modification
+3554	enzyme; Amino acid biosynthesis: Cysteine
+3555	enzyme; Energy metabolism, carbon: Aerobic respiration
+3556	transport; Protein, peptide secretion
+3557	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3559	putative enzyme; Not classified
+3560	enzyme; Murein sacculus, peptidoglycan
+3562	putative regulator; Not classified
+3563	enzyme; Degradation of small molecules: Amino acids
+3564	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3565	phenotype; Not classified
+3566	enzyme; Surface polysaccharides & antigens
+3567	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3568	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3569	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3570	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3571	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3572	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3573	enzyme; Surface polysaccharides & antigens
+3574	enzyme; Surface polysaccharides & antigens
+3575	enzyme; Surface polysaccharides & antigens
+3576	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3577	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3578	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3579	enzyme; Macromolecule metabolism: Lipopolysaccharide
+3580	enzyme; Surface polysaccharides & antigens
+3581	enzyme; Not classified
+3582	enzyme; DNA - replication, repair, restriction/modification
+3583	structural component; Ribosomal proteins - synthesis, modification
+3584	structural component; Ribosomal proteins - synthesis, modification
+3585	phenotype; Not classified
+3586	phenotype; DNA - replication, repair, restriction/modification
+3587	enzyme; 2'-Deoxyribonucleotide metabolism
+3588	putative regulator; Not classified
+3589	enzyme; Pyrimidine ribonucleotide biosynthesis
+3591	phenotype; Not classified
+3592	phenotype; DNA - replication, repair, restriction/modification
+3594	putative enzyme; Not classified
+3595	enzyme; Purine ribonucleotide biosynthesis
+3596	enzyme; RNA synthesis, modification, DNA transcription
+3597	enzyme; Global regulatory functions
+3598	enzyme; tRNA modification
+3599	enzyme; DNA - replication, repair, restriction/modification
+3600	transport; Transport of small molecules: Amino acids, amines
+3601	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+3604	putative transport; Not classified
+3606	putative transport; Not classified
+3607	putative transport; Not classified
+3608	membrane; Macromolecule synthesis, modification: Lipoprotein
+3610	putative transport; Not classified
+3612	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+3613	putative enzyme; Purine ribonucleotide biosynthesis
+3614	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3615	regulator; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3616	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3617	regulator; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3618	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3619	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3620	leader; Amino acid biosynthesis: Isoleucine, Valine
+3622	transport; Drug/analog sensitivity
+3623	putative enzyme; Not classified
+3627	putative enzyme; Not classified
+3628	putative transport; Not classified
+3629	putative regulator; Not classified
+3632	putative regulator; Not classified
+3633	putative transport; Not classified
+3634	factor; Adaptations, atypical conditions
+3635	factor; Adaptations, atypical conditions
+3639	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3640	enzyme; Degradation of small molecules: Carbon compounds
+3641	enzyme; Degradation of small molecules: Carbon compounds
+3642	enzyme; Degradation of small molecules: Carbon compounds
+3644	putative enzyme; Not classified
+3647	enzyme; DNA - replication, repair, restriction/modification
+3648	regulator; DNA - replication, repair, restriction/modification
+3649	enzyme; DNA - replication, repair, restriction/modification
+3650	regulator; DNA - replication, repair, restriction/modification
+3651	structural component; Ribosomal proteins - synthesis, modification
+3652	enzyme; Degradation of RNA
+3653	membrane; Inner membrane
+3654	membrane; Inner membrane
+3655	enzyme; tRNA modification
+3656	leader; Degradation of small molecules: Amino acids
+3657	enzyme; Degradation of small molecules: Amino acids
+3658	transport; Transport of small molecules: Amino acids, amines
+3659	putative transport; Not classified
+3660	putative regulator; Not classified
+3663	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+3664	enzyme; Not classified
+3667	putative enzyme; Not classified
+3668	putative enzyme; Not classified
+3669	putative membrane; Not classified
+3670	enzyme; Degradation of small molecules: Carbon compounds
+3671	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3672	regulator; Degradation of small molecules: Carbon compounds
+3673	regulator; Global regulatory functions
+3674	transport; Transport of small molecules: Anions
+3675	transport; Transport of small molecules: Anions
+3676	transport; Transport of small molecules: Anions
+3677	transport; Transport of small molecules: Anions
+3678	enzyme; Central intermediary metabolism: Amino sugars
+3679	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3680	enzyme; ATP-proton motive force interconversion
+3681	enzyme; ATP-proton motive force interconversion
+3682	enzyme; ATP-proton motive force interconversion
+3683	enzyme; ATP-proton motive force interconversion
+3684	enzyme; ATP-proton motive force interconversion
+3685	enzyme; ATP-proton motive force interconversion
+3686	enzyme; ATP-proton motive force interconversion
+3687	enzyme; ATP-proton motive force interconversion
+3688	enzyme; ATP-proton motive force interconversion
+3689	enzyme; rRNA modification; phenotype; DNA - replication, repair, restriction/modification
+3690	enzyme; tRNA modification
+3691	factor; DNA - replication, repair, restriction/modification
+3692	regulator; Amino acid biosynthesis: Asparagine
+3693	enzyme; Amino acid biosynthesis: Asparagine
+3695	putative regulator; Not classified
+3696	transport; Transport of small molecules: Cations
+3697	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3698	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3699	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3700	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3701	enzyme; Degradation of small molecules: Carbon compounds
+3702	regulator; Degradation of small molecules: Carbon compounds
+3703	putative transport; Not classified
+3705	regulator; Not classified
+3707	putative regulator; Not classified
+3708	leader; Amino acid biosynthesis: Isoleucine, Valine
+3711	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3712	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3713	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3714	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3715	regulator; Amino acid biosynthesis: Isoleucine, Valine
+3716	enzyme; Amino acid biosynthesis: Isoleucine, Valine
+3717	enzyme; Proteins - translation and modification
+3719	enzyme; DNA - replication, repair, restriction/modification
+3720	enzyme; Global regulatory functions
+3721	putative enzyme; Not classified
+3722	enzyme; Biosynthesis of cofactors, carriers: Thioredoxin, glutaredoxin, glutathione
+3723	factor; RNA synthesis, modification, DNA transcription
+3724	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3725	putative transport; Not classified
+3726	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3727	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3728	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3729	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3732	putative carrier; Not classified
+3734	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3735	enzyme; Central intermediary metabolism: Sugar-nucleotide biosynthesis, conversions
+3736	putative transport; Not classified
+3737	regulator; Not classified
+3738	enzyme; Central intermediary metabolism: Sulfur metabolism
+3739	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3740	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3741	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3742	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3743	enzyme; Global regulatory functions
+3744	putative factor; Chaperones
+3746	enzyme; Amino acid biosynthesis: Lysine
+3748	enzyme; Cell division
+3749	enzyme; Biosynthesis of cofactors, carriers: Riboflavin
+3750	enzyme; DNA - replication, repair, restriction/modification
+3752	transport; Transport of small molecules: Cations
+3757	enzyme; Central intermediary metabolism: Phosphorus compounds
+3758	enzyme; DNA - replication, repair, restriction/modification
+3761	enzyme; Central intermediary metabolism: Phosphorus compounds
+3764	regulator; Amino acid biosynthesis: Methionine
+3765	enzyme; Amino acid biosynthesis: Methionine
+3766	putative enzyme; Not classified
+3767	enzyme; Salvage of nucleosides and nucleotides
+3768	phenotype; Not classified
+3769	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3770	putative factor; Biosynthesis of cofactors, carriers:, Ubiquinone
+3771	putative enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3776	regulator; Macromolecule metabolism: Lipopolysaccharide
+3778	enzyme; Energy metabolism, carbon: Electron transport
+3779	enzyme; Degradation of small molecules: Fatty acids
+3780	enzyme; Degradation of small molecules: Fatty acids
+3781	enzyme; Degradation of proteins, peptides, glyco
+3783	transport; Transport of small molecules: Cations
+3784	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3785	enzyme; Central intermediary metabolism: Nucleotide interconversions
+3786	enzyme; Biosynthesis of cofactors, carriers: Molybdopterin
+3789	enzyme; Proteins - translation and modification
+3790	orf; Not classified
+3791	putative enzyme; Not classified
+3792	enzyme; DNA - replication, repair, restriction/modification
+3795	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3797	regulator; Amino acid biosynthesis: Glutamine
+3798	enzyme; Amino acid biosynthesis: Glutamine
+3799	enzyme; Amino acid biosynthesis: Glutamine
+3800	putative factor; Not classified
+3801	putative regulator; Not classified
+3803	putative transport; Drug/analog sensitivity
+3805	putative transport; Not classified
+3806	putative transport; Not classified
+3807	enzyme; Not classified
+3808	enzyme; Not classified
+3809	enzyme; Not classified
+3810	enzyme; Not classified
+3811	enzyme; Not classified
+3812	enzyme; Not classified
+3813	putative enzyme; Not classified
+3814	enzyme; Not classified
+3817	putative enzyme; Not classified
+3820	phenotype; Energy metabolism, carbon: Anaerobic respiration
+3821	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3822	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3823	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3824	phenotype; Energy metabolism, carbon: Anaerobic respiration
+3826	putative regulator; Not classified
+3827	orf; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3828	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3829	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3831	enzyme; Degradation of small molecules: Carbon compounds
+3832	enzyme; Degradation of small molecules: Carbon compounds
+3833	enzyme; Degradation of small molecules: Carbon compounds
+3834	regulator; Degradation of small molecules: Carbon compounds
+3835	regulator; Degradation of small molecules: Carbon compounds
+3836	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3837	enzyme; Detoxification
+3838	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3840	putative regulator; Global regulatory functions
+3841	putative regulator; Not classified
+3843	putative transport; Not classified
+3844	enzyme; Energy metabolism, carbon: Glycolysis
+3845	transport; Transport of small molecules: Anions
+3846	enzyme; Fatty acid and phosphatidic acid biosynthesis
+3847	enzyme; Energy metabolism, carbon: Glycolysis
+3851	putative regulator; Not classified
+3852	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3853	phenotype; Not classified
+3854	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3855	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3858	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3859	factor; Adaptations, atypical conditions
+3860	enzyme; Degradation of proteins, peptides, glyco
+3861	phenotype; Cell division
+3862	regulator; Global regulatory functions
+3863	factor; DNA - replication, repair, restriction/modification
+3864	structural component; Ribosomal proteins - synthesis, modification
+3866	regulator; Amino acid biosynthesis: Methionine
+3867	enzyme; Amino acid biosynthesis: Methionine
+3868	enzyme; Amino acid biosynthesis: Methionine
+3869	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3870	enzyme; Detoxification
+3873	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+3874	putative enzyme; Not classified
+3875	enzyme; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3876	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3877	enzyme; Degradation of small molecules: Carbon compounds
+3878	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3879	putative enzyme; Energy metabolism, carbon: Anaerobic respiration
+3880	enzyme; Degradation of small molecules: Carbon compounds
+3881	putative regulator; Not classified
+3883	enzyme; Energy metabolism, carbon: Fermentation
+3884	enzyme; Amino acid biosynthesis: Arginine
+3885	enzyme; Amino acid biosynthesis: Arginine
+3886	enzyme; Amino acid biosynthesis: Arginine
+3887	enzyme; Amino acid biosynthesis: Arginine
+3888	regulator; Global regulatory functions
+3889	putative enzyme; Not classified
+3892	enzyme; tRNA modification
+3893	membrane; Outer membrane constituents
+3894	enzyme; Murein sacculus, peptidoglycan
+3895	enzyme; Murein sacculus, peptidoglycan
+3896	enzyme; Biosynthesis of cofactors, carriers: Biotin
+3897	enzyme; Biosynthesis of cofactors, carriers: Pantothenate
+3898	factor; Proteins - translation and modification
+3899	transport; Protein, peptide secretion
+3900	putative factor; RNA synthesis, modification, DNA transcription
+3901	structural component; Ribosomal proteins - synthesis, modification
+3902	structural component; Ribosomal proteins - synthesis, modification
+3903	structural component; Ribosomal proteins - synthesis, modification
+3904	structural component; Ribosomal proteins - synthesis, modification
+3905	enzyme; RNA synthesis, modification, DNA transcription
+3906	enzyme; RNA synthesis, modification, DNA transcription
+3907	factor; Adaptations, atypical conditions
+3908	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+3909	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+3910	factor; Biosynthesis of cofactors, carriers: Thiamine
+3911	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+3912	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+3913	enzyme; Biosynthesis of cofactors, carriers: Thiamine
+3914	regulator; Not classified
+3916	enzyme; Biosynthesis of cofactors, carriers: Heme, porphyrin
+3917	enzyme; Degradation of DNA
+3919	factor; Basic proteins - synthesis, modification
+3922	enzyme; Energy metabolism, carbon: Fermentation
+3923	regulator; Energy metabolism, carbon: Fermentation
+3924	enzyme; Purine ribonucleotide biosynthesis
+3925	enzyme; Purine ribonucleotide biosynthesis
+3928	enzyme; Amino acid biosynthesis: Methionine
+3929	enzyme; Central intermediary metabolism: Glyoxylate bypass
+3930	enzyme; Central intermediary metabolism: Glyoxylate bypass
+3931	enzyme; Central intermediary metabolism: Glyoxylate bypass
+3933	regulator; Central intermediary metabolism: Glyoxylate bypass
+3934	enzyme; Amino acid biosynthesis: Methionine
+3935	phenotype; Not classified
+3936	enzyme; Degradation of proteins, peptides, glyco
+3937	enzyme; rRNA modification
+3939	enzyme; Amino acid biosynthesis: Lysine
+3940	enzyme; Energy metabolism, carbon: Glycolysis
+3947	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3948	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3949	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3950	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3951	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3952	IS, phage, Tn; Transport of small molecules: Carbohydrates, organic acids, alcohols
+3953	phenotype; Degradation of small molecules: Carbon compounds
+3955	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3956	enzyme; Biosynthesis of cofactors, carriers: Menaquinone, ubiquinone
+3957	enzyme; Macromolecule synthesis, modification: Phospholipids
+3958	enzyme; Fatty acid and phosphatidic acid biosynthesis
+3959	regulator; Global regulatory functions
+3960	factor; DNA - replication, repair, restriction/modification
+3962	putative regulator; Not classified
+3965	enzyme; tRNA modification
+3967	enzyme; Energy metabolism, carbon: Electron transport
+3968	factor; DNA - replication, repair, restriction/modification
+3969	enzyme; Amino acid biosynthesis: Alanine
+3970	enzyme; Amino acid biosynthesis: Tyrosine
+3972	enzyme; Central intermediary metabolism: Nucleotide hydrolysis
+3975	enzyme; DNA - replication, repair, restriction/modification
+3976	factor; DNA - replication, repair, restriction/modification
+3979	regulator; Global regulatory functions
+3980	regulator; Global regulatory functions
+3981	transport; Transport of small molecules: Nucleosides, purines, pyrimidines
+3986	enzyme; Fatty acid and phosphatidic acid biosynthesis
+3987	carrier; Energy metabolism, carbon: Electron transport
+3988	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3989	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3990	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3991	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3992	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3993	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3994	transport; Transport of small molecules: Amino acids, amines
+3996	enzyme; Energy metabolism, carbon: Anaerobic respiration
+3997	orf; Not classified
+3998	orf; Not classified
+3999	putative membrane; Not classified
+4002	putative regulator; Not classified
+4003	putative enzyme; Not classified
+4004	putative transport; Not classified
+4005	putative transport; Not classified
+4006	putative regulator; Not classified
+4007	regulator; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+4008	enzyme; Central intermediary metabolism: Non-oxidative branch, pentose pathway
+4010	enzyme; Central intermediary metabolism: Phosphorus compounds
+4011	enzyme; Central intermediary metabolism: Phosphorus compounds
+4012	transport; Central intermediary metabolism: Phosphorus compounds
+4013	enzyme; Central intermediary metabolism: Phosphorus compounds
+4014	enzyme; Central intermediary metabolism: Phosphorus compounds
+4015	enzyme; Central intermediary metabolism: Phosphorus compounds
+4016	enzyme; Central intermediary metabolism: Phosphorus compounds
+4017	enzyme; Central intermediary metabolism: Phosphorus compounds
+4018	enzyme; Central intermediary metabolism: Phosphorus compounds
+4019	enzyme; Central intermediary metabolism: Phosphorus compounds
+4020	putative regulator; Not classified
+4022	transport; Transport of small molecules: Anions
+4023	transport; Central intermediary metabolism: Phosphorus compounds
+4024	putative enzyme; Not classified
+4026	phenotype; Not classified
+4028	transport; Transport of small molecules: Amino acids, amines
+4030	enzyme; RNA synthesis, modification, DNA transcription
+4031	regulator; RNA synthesis, modification, DNA transcription
+4033	putative transport; Not classified
+4034	putative regulator; Not classified
+4035	enzyme; Degradation of small molecules: Amino acids
+4036	regulator; Degradation of small molecules: Carbon compounds
+4037	enzyme; Degradation of small molecules: Carbon compounds
+4038	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+4040	enzyme; Energy metabolism, carbon: TCA cycle
+4041	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+4042	putative regulator; Not classified
+4043	putative regulator; Not classified
+4048	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+4049	transport; Not classified
+4050	enzyme; Degradation of small molecules: Amino acids
+4051	transport; Transport of small molecules: Amino acids, amines
+4052	regulator; Degradation of small molecules: Amino acids
+4055	putative enzyme; Central intermediary metabolism: Sulfur metabolism
+4056	phenotype; Adaptations, atypical conditions
+4057	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+4058	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+4060	putative transport; Not classified
+4061	factor; Chaperones
+4062	factor; Chaperones
+4065	enzyme; Protein modification
+4066	factor; Proteins - translation and modification
+4069	putative factor; Not classified
+4070	membrane; Macromolecule synthesis, modification: Lipoprotein
+4071	enzyme; Drug/analog sensitivity
+4072	enzyme; Energy metabolism, carbon: Anaerobic respiration
+4073	enzyme; Energy metabolism, carbon: Anaerobic respiration
+4074	enzyme; Energy metabolism, carbon: Anaerobic respiration
+4075	enzyme; Energy metabolism, carbon: Anaerobic respiration
+4076	enzyme; Protein modification
+4077	putative transport; Not classified
+4080	transport; ions
+4081	enzyme; Macromolecule synthesis, modification: Phospholipids
+4085	enzyme; cofactor biosynthesis
+4086	enzyme; Not classified
+4087	enzyme; tRNA modification
+4088	enzyme; Murein sacculus, peptidoglycan
+4089	enzyme; DNA - replication, repair, restriction/modification
+4090	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+4091	factor; Phage-related functions and prophages
+4092	enzyme; Degradation of proteins, peptides, glyco
+4093	enzyme; Degradation of proteins, peptides, glyco
+4094	enzyme; Degradation of proteins, peptides, glyco
+4096	enzyme; Purine ribonucleotide biosynthesis
+4098	putative enzyme; Not classified
+4099	enzyme; rRNA modification
+4101	phenotype; Not classified
+4105	putative enzyme; Not classified
+4106	enzyme; DNA repair
+4110	putative regulator; Not classified
+4114	putative transport; Not classified
+4115	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+4116	putative enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+4117	putative enzyme; Not classified
+4119	structural component; Ribosomal proteins - synthesis, modification
+4120	factor; DNA - replication, repair, restriction/modification
+4121	structural component; Ribosomal proteins - synthesis, modification
+4122	structural component; Ribosomal proteins - synthesis, modification
+4126	enzyme; Proteins - translation and modification
+4127	transport; Transport of small molecules: Amino acids, amines
+4129	putative membrane; Not classified
+4130	enzyme; Energy metabolism, carbon: Electron transport
+4132	enzyme; Salvage of nucleosides and nucleotides
+4133	enzyme; Central intermediary metabolism: Sulfur metabolism
+4137	putative transport; Not classified
+4138	enzyme; Proteins - translation and modification
+4139	transport; Not classified
+4140	transport; Not classified
+4142	phenotype; Not classified
+4143	putative factor; Not classified
+4144	enzyme; Central intermediary metabolism: Pool, multipurpose conversions
+4145	putative regulator; Not classified
+4146	putative transport; Not classified
+4147	putative transport; Not classified
+4148	putative transport; Not classified
+4149	enzyme; Central intermediary metabolism: Gluconeogenesis
+4150	putative enzyme; Not classified
+4151	phenotype; Not classified
+4154	enzyme; Central intermediary metabolism: Nucleotide interconversions
+4155	enzyme; 2'-Deoxyribonucleotide metabolism
+4156	enzyme; Degradation of small molecules: Carbon compounds
+4157	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+4158	regulator; Osmotic adaptation
+4160	enzyme; Transport of small molecules: Cations
+4162	enzyme; Pyrimidine ribonucleotide biosynthesis
+4163	enzyme; Pyrimidine ribonucleotide biosynthesis
+4164	leader; Pyrimidine ribonucleotide biosynthesis
+4166	regulator; Not classified
+4167	regulator; Not classified
+4168	putative enzyme; Not classified
+4170	enzyme; Amino acid biosynthesis: Arginine
+4174	enzyme; Aminoacyl tRNA synthetases, tRNA modification
+4175	enzyme; DNA - replication, repair, restriction/modification
+4176	enzyme; Degradation of proteins, peptides, glyco
+4180	putative regulator; Not classified
+4181	putative transport; Not classified
+4182	putative enzyme; Not classified
+4183	putative enzyme; Not classified
+4184	enzyme; Degradation of small molecules: Carbon compounds
+4185	enzyme; Degradation of small molecules: Carbon compounds
+4187	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+4188	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+4191	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+4192	putative transport; Not classified
+4193	orf; Not classified
+4198	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+4201	transport; Transport of small molecules: Cations
+4202	transport; Transport of small molecules: Cations
+4203	transport; Transport of small molecules: Cations
+4204	transport; Transport of small molecules: Cations
+4205	membrane; Transport of small molecules: Cations
+4206	regulator; Transport of small molecules: Cations
+4207	regulator; Global regulatory functions
+4208	IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related
+4210	putative regulator; Not classified
+4211	putative transport; Not classified
+4212	putative enzyme; Not classified
+4213	putative enzyme; Not classified
+4214	putative regulator; Not classified
+4215	putative regulator; Not classified
+4216	putative enzyme; Not classified
+4217	putative transport; Not classified
+4218	putative enzyme; Not classified
+4219	putative transport; Not classified
+4221	putative enzyme; Not classified
+4223	putative enzyme; Not classified
+4231	regulator; Surface structures
+4232	regulator; Surface structures
+4233	structural component; Surface structures
+4234	structural component; Surface structures
+4235	factor; Surface structures
+4236	membrane; Outer membrane constituents
+4237	structural component; Surface structures
+4238	structural component; Surface structures
+4239	structural component; Surface structures
+4240	transport; Transport of small molecules: Carbohydrates, organic acids, alcohols
+4241	enzyme; Degradation of small molecules: Carbon compounds
+4242	enzyme; Degradation of small molecules: Carbon compounds
+4243	regulator; Degradation of small molecules: Carbon compounds
+4246	regulator; Global regulatory functions
+4247	enzyme; Degradation of proteins, peptides, glyco
+4251	putative transport; Not classified
+4252	putative enzyme; Not classified
+4253	putative enzyme; Not classified
+4256	putative transport; Not classified
+4258	putative regulator; Not classified
+4262	enzyme; Degradation of DNA
+4263	enzyme; Degradation of DNA
+4265	enzyme; DNA - replication, repair, restriction/modification
+4266	enzyme; DNA - replication, repair, restriction/modification
+4267	enzyme; Degradation of DNA
+4268	enzyme; DNA - replication, repair, restriction/modification
+4271	orf; Not classified
+4272	regulator; Chemotaxis and mobility
+4273	putative transport; Not classified
+4275	enzyme; L-galactonate catabolism
+4276	enzyme; Osmoregulated periplasmic glucan (OPG) biosynthesis biolsynthesis
+4277	putative factor; Not classified
+4278	enzyme; DNA - replication, repair, restriction/modification
+4279	factor; DNA - replication, repair, restriction/modification
+4281	putative structure; Not classified
+4282	putative regulator; Not classified
+4283	regulator; Not classified
+4286	enzyme; rRNA modification
+4287	enzyme; DNA - replication, repair, restriction/modification
+4288	enzyme; Ribosomes - maturation and modification
+4289	enzyme; Degradation of small molecules: Nucleotides
+4290	factor; Proteins - translation and modification
+4291	phenotype; Osmotic adaptation
+4295	putative enzyme; Not classified
+4296	putative enzyme; Not classified
+4297	enzyme; Salvage of nucleosides and nucleotides
+4298	enzyme; Salvage of nucleosides and nucleotides
+4299	enzyme; Salvage of nucleosides and nucleotides
+4300	enzyme; Salvage of nucleosides and nucleotides
+4301	putative enzyme; Protein modification
+4302	enzyme; Macromolecule synthesis, modification: Lipoprotein
+4303	membrane; Not classified
+4304	enzyme; Amino acid biosynthesis: Serine
+4305	putative enzyme; Degradation of proteins, peptides, glycopeptides
+4306	regulator; Biosynthesis of cofactors, carriers: Pyridine nucleotide
+4307	factor; Proteins - translation and modification
+4308	enzyme; Murein sacculus, peptidoglycan
+4309	regulator; Amino acid biosynthesis: Tryptophan
+4311	enzyme; Not classified
+4312	factor; DNA - replication, repair, restriction/modification
+4314	regulator; Global regulatory functions
+4315	enzyme; Global regulatory functions
+4316	putative membrane; Colicin-related functions
+4317	regulator; Global regulatory functions
