@@ -150,7 +150,7 @@ for gbff in open_files:
 					exon      = str(exonOrder)
 					left_pos  = i[0]
 					right_pos = i[1]
-					len_exon  = str(abs(int(right_pos)-int(left_pos)))
+					len_exon  = str(abs(int(right_pos)-int(left_pos)+1))
 					gen_length_ctnr += int(len_exon)
 					writeData = (gene_id+'\t'+exon+'\t'+left_pos+'\t'+right_pos
 								 +'\t'+len_exon+'\n')
